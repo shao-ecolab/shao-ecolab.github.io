@@ -35,12 +35,6 @@ Model developments representing mycorrhizal functional diversity and the carbon 
 [Shao et al. 2023, *SBB*](https://doi.org/10.1016/j.soilbio.2023.109073) · [Shao et al. 2025, *JGR-BG*](https://doi.org/10.1029/2025JG009198)
 :::
 
-:::{card} Ecosystem digital twins
-Knowledge-guided machine learning surrogates trained on process-based model output and experimental data, for fast emulation of long-term ecosystem dynamics.
-+++
-In development
-:::
-
 ::::
 
 ---
