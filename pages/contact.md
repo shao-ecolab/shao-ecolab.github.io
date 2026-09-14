@@ -28,7 +28,7 @@ Knoxville, TN 37996
 - [ORCID](https://orcid.org/0000-0001-8293-3450)
 - [LinkedIn](https://www.linkedin.com/in/siyashao/)
 - [UTK Faculty Profile](https://micro.utk.edu/faculty/siya-shao/)
-- [GitHub](https://github.com/shao-lab)
+- [GitHub](https://github.com/shao-ecolab)
 
 ---
 

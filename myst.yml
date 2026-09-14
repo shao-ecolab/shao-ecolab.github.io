@@ -6,7 +6,7 @@ project:
     - name: Siya Shao
       email: sshao3@utk.edu
       orcid: 0000-0001-8293-3450
-      url: https://shao-lab.github.io
+      url: https://shao-ecolab.github.io
       affiliations:
         - Department of Microbiology, University of Tennessee, Knoxville
   copyright: '2026'
@@ -18,7 +18,7 @@ project:
     - Biogeochemistry
     - Enhanced Rock Weathering
     - Carbon Cycling
-  github: shao-lab/shao-lab.github.io
+  github: shao-ecolab/shao-ecolab.github.io
   exclude:
     - _build
     - Thumbs.db
@@ -60,7 +60,7 @@ site:
     folders: true
   actions:
     - title: RSS
-      url: https://shao-lab.github.io/rss.xml
+      url: https://shao-ecolab.github.io/rss.xml
   template: book-theme
   parts:
     primary_sidebar_footer: ''

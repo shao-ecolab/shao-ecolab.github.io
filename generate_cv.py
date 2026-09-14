@@ -276,7 +276,7 @@ def gen_preamble():
     firstname: "Siya",
     lastname: "Shao",
     email: "sshao3@utk.edu",
-    homepage: "https://shao-lab.github.io",
+    homepage: "https://shao-ecolab.github.io",
     address: "307 Ken and Blaire Mossman Bldg., 1311 Cumberland Ave., Knoxville, TN 37996",
     positions: (
       "Assistant Professor of Microbiology",

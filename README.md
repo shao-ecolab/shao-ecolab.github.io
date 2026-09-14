@@ -1,6 +1,6 @@
 # Shao Lab website
 
-Source for the website of the [Shao Lab](https://shao-lab.github.io), Department of Microbiology,
+Source for the website of the [Shao Lab](https://shao-ecolab.github.io), Department of Microbiology,
 University of Tennessee, Knoxville.
 
 Built with [MyST Markdown](https://mystmd.org) from

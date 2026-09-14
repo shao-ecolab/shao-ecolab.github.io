@@ -54,5 +54,5 @@ In development
 **Training:** NERSC N-Ways to GPU Programming Bootcamp (2025); NCAR/UCAR Community Terrestrial Systems Model (CTSM) Tutorial (2022)
 
 :::{note}
-Code repositories for individual papers are being migrated to the [lab GitHub organization](https://github.com/shao-lab). Check back, or email for access in the meantime.
+Code repositories for individual papers are being migrated to the [lab GitHub organization](https://github.com/shao-ecolab). Check back, or email for access in the meantime.
 :::
