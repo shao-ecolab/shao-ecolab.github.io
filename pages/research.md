@@ -31,7 +31,7 @@ We build process-based ecosystem models that treat microorganisms as active part
 :open:
 
 **Shao, S.**, Shortt, Z., Sulman, B., & Hicks Pries, C. (2025). Modeling mycorrhizal carbon costs in temperate forests: the impacts of functional diversity and global change factors. *Journal of Geophysical Research: Biogeosciences*, 130(10), e2025JG009198. [https://doi.org/10.1029/2025JG009198](https://doi.org/10.1029/2025JG009198)
-*Invited contribution to the "Biogeosciences Leaders of Tomorrow" Special Collection. Featured on AGU's Eos Research Spotlight. Z. Shortt was a mentored undergraduate student.*
+*Invited contribution to the "Biogeosciences Leaders of Tomorrow" Special Collection. Featured on AGU's Eos Research Spotlight: [How Plant-Fungi Friendships Are Changing](https://eos.org/research-spotlights/how-plant-fungi-friendships-are-changing). Z. Shortt was a mentored undergraduate student.*
 
 Zhang, C., Ke, W., Hicks Pries, C., Montaño-López, F., Ridgeway, J., Wang, L., Yin, Y., Ye, S., Song, S., Liu, X., Dou, X., Guo, X., Li, M., **Shao, S.**, Lv, S., Zheng, Y., & Lin, G. (2025). Higher nitrification and lower consumption drive higher N₂O effluxes in estuarine than non-estuarine mangrove wetlands. *Environmental Research Letters*, 20(4), 044022. [https://doi.org/10.1088/1748-9326/adbdde](https://doi.org/10.1088/1748-9326/adbdde)
 

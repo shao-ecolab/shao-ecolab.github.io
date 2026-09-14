@@ -24,7 +24,7 @@ description: Siya Shao builds process-based ecosystem models in which microbes a
 
 [Department of Microbiology](https://micro.utk.edu), University of Tennessee, Knoxville
 
-307 Ken and Blaire Mossman Building, 1311 Cumberland Avenue, Knoxville, TN 37996
+301 Ken and Blaire Mossman Building, 1311 Cumberland Avenue, Knoxville, TN 37996
 
 [sshao3@utk.edu](mailto:sshao3@utk.edu)
 
@@ -53,7 +53,7 @@ We also couple these models with machine learning to build digital twins that fo
 
 :::{admonition} We are recruiting
 :class: tip
-The lab is looking for graduate students and undergraduate researchers. See [Join the Lab](pages/join) for what we look for and how to get in touch.
+Funded **postdoctoral positions** are open now, and we are recruiting **graduate students** for Fall 2027 entry plus **undergraduate researchers** on a rolling basis. See [Join the Lab](pages/join) for what we look for and how to get in touch.
 :::
 
 ---
@@ -111,6 +111,6 @@ Latest updates
 - **2026-08** — Joined the [Department of Microbiology](https://micro.utk.edu) at the University of Tennessee, Knoxville as an Assistant Professor.
 - **2026-01** — Co-PI on a Department of Energy Genesis Mission award for autonomous multi-agent AI workflows in coupled bio-hydrogeochemical modeling.
 - **2025-12** — Invited talk at AGU Fall Meeting, New Orleans, on mycorrhizae-explicit ecosystem modeling; convened Session B068 on peatland carbon cycling.
-- **2025-10** — Invited paper published in *JGR: Biogeosciences* as part of the Biogeosciences Leaders of Tomorrow special collection; [featured on AGU's Eos](https://eos.org).
+- **2025-10** — Invited paper published in *JGR: Biogeosciences* as part of the Biogeosciences Leaders of Tomorrow special collection; [featured on AGU's Eos](https://eos.org/research-spotlights/how-plant-fungi-friendships-are-changing).
 
 [See all news →](pages/news)

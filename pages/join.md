@@ -15,6 +15,7 @@ The Shao Lab is new at the University of Tennessee, Knoxville, and we are buildi
 
 :::{admonition} Currently recruiting
 :class: tip
+**Postdoctoral researchers** — funded positions available now.
 **Graduate students** for Fall 2027 entry through the [Department of Microbiology graduate program](https://micro.utk.edu/graduate/).
 **Undergraduate researchers** on a rolling basis.
 :::
@@ -68,7 +69,19 @@ Email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Undergraduate
 
 ## Postdoctoral Researchers
 
-No funded postdoctoral position is open at the moment. If you are interested in developing a fellowship application together (for example, NSF Postdoctoral Research Fellowship in Biology, or a DOE program), please reach out — we are happy to co-develop proposals with strong candidates.
+**Funded postdoctoral positions are open.** Start dates are flexible.
+
+We are looking for people who want to build ecosystem models and test them against real data. Strong candidates might come from ecosystem or soil biogeochemistry, microbial ecology, land-surface or Earth system modeling, biogeochemical modeling, or scientific computing. Experience with a process-based model, or with substantial scientific programming, matters more than a specific disciplinary label.
+
+**To apply,** email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Postdoc application"** and include:
+
+1. A cover letter — what you have worked on, and what you would want to work on here.
+2. Your CV.
+3. Names and contact details for two or three references.
+
+Review is ongoing until the positions are filled.
+
+We are also glad to co-develop fellowship applications (for example the NSF Postdoctoral Research Fellowship in Biology, or DOE programs) with strong candidates who would rather come with their own funding.
 
 ---
 

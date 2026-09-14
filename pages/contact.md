@@ -14,7 +14,7 @@ Assistant Professor
 [Department of Microbiology](https://micro.utk.edu)
 University of Tennessee, Knoxville
 
-307 Ken and Blaire Mossman Building
+301 Ken and Blaire Mossman Building
 1311 Cumberland Avenue
 Knoxville, TN 37996
 
