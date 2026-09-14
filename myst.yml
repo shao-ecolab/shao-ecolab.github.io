@@ -1,0 +1,72 @@
+version: 1
+project:
+  title: Siya Shao
+  description: The Shao Lab at the University of Tennessee, Knoxville builds process-based ecosystem models in which microbes are active players, linking microbial traits to ecosystem carbon and nutrient cycling.
+  authors:
+    - name: Siya Shao
+      email: sshao3@utk.edu
+      orcid: 0000-0001-8293-3450
+      url: https://shao-lab.github.io
+      affiliations:
+        - Department of Microbiology, University of Tennessee, Knoxville
+  copyright: '2026'
+  keywords:
+    - Ecosystem Modeling
+    - Soil Microbial Ecology
+    - Mycorrhizal Fungi
+    - Peatlands
+    - Biogeochemistry
+    - Enhanced Rock Weathering
+    - Carbon Cycling
+  github: shao-lab/shao-lab.github.io
+  exclude:
+    - _build
+    - Thumbs.db
+    - .DS_Store
+    - '**.ipynb_checkpoints'
+    - cv.typ
+    - cv.pdf
+    - generate_cv.py
+    - generate_rss.py
+    - inject_comments.py
+    - rss.xml
+    - atom.xml
+    - fonts/**
+    - CONDUCT.md
+    - CONTRIBUTING.md
+    - README.md
+  toc:
+    - file: index.md
+    - file: pages/about.md
+    - file: pages/research.md
+    - file: pages/join.md
+    - file: pages/software.md
+    - file: pages/teaching.md
+    - file: pages/talks.md
+    - file: pages/awards.md
+    - file: pages/services.md
+    - file: pages/contact.md
+    - file: pages/news.md
+    - file: pages/blog.md
+    - pattern: blog/*.md
+      hidden: true
+site:
+  title: Siya Shao | Shao Lab
+  options:
+    logo_text: Shao Lab
+    favicon: fav.ico
+    style: custom.css
+    # analytics_google: G-XXXXXXXXXX
+    folders: true
+  actions:
+    - title: RSS
+      url: https://shao-lab.github.io/rss.xml
+  template: book-theme
+  parts:
+    primary_sidebar_footer: ''
+    footer: |
+      [CV (PDF)](cv.pdf) |
+      [Google Scholar](https://scholar.google.com/citations?user=g1d0Do0AAAAJ) |
+      [ORCID](https://orcid.org/0000-0001-8293-3450) |
+      [LinkedIn](https://www.linkedin.com/in/siyashao/) |
+      [Email](mailto:sshao3@utk.edu)
