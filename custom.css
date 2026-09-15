@@ -120,3 +120,43 @@ img.hero-banner {
     max-width: 110px;
   }
 }
+
+/* Homepage profile column (left) */
+.profile-card {
+  padding-right: 0.5rem;
+}
+.profile-card .avatar,
+.profile-card img.avatar {
+  max-width: 220px;
+  margin: 0 auto 1rem;
+}
+.profile-card h1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0 0 0.3rem;
+  border: none;
+  padding: 0;
+}
+.profile-role {
+  font-size: 0.95rem;
+  opacity: 0.75;
+  line-height: 1.35;
+  margin-bottom: 1rem;
+}
+.profile-links p {
+  margin: 0 0 0.45rem;
+  font-size: 0.92rem;
+  line-height: 1.35;
+}
+@media (max-width: 767px) {
+  .profile-card .avatar,
+  .profile-card img.avatar {
+    max-width: 150px;
+  }
+  .profile-card h1,
+  .profile-role,
+  .profile-links {
+    text-align: center;
+  }
+}
