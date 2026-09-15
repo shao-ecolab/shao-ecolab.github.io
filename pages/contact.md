@@ -36,3 +36,14 @@ Knoxville, TN 37996
 :class: tip
 If you are writing about graduate or undergraduate research positions, please read [Join the Lab](join) first — it explains what to include in your email.
 :::
+
+---
+
+## More
+
+[Full biography](about) ·
+[Talks & Presentations](talks) ·
+[Awards & Honors](awards) ·
+[Service](services) ·
+[News](news) ·
+[Blog](blog)

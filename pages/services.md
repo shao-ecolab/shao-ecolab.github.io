@@ -41,7 +41,3 @@ keywords:
 | 2019 | C-PEAT |
 | 2019 | Ecological Society of America |
 | 2019 | American Geophysical Union |
-
-### Outreach
-
-- **Science Day Volunteer**, Dartmouth College, 2023. Led hands-on soil science activities for 5th–10th grade students, introducing participants to what soil is, why it matters, and how scientists study soils.

@@ -647,6 +647,17 @@ def gen_services(services):
 # ============================================================================
 
 
+def gen_outreach(teaching):
+    """Generate Outreach section from teaching.md."""
+    section = extract_section(teaching, "## Outreach")
+    if not section:
+        return ""
+    body = content_with_table(section)
+    if not body:
+        return ""
+    return "= Outreach & Broader Impact\n\n" + body
+
+
 def main():
     """Read website markdown files and generate cv.typ."""
     base = Path(__file__).parent
@@ -654,6 +665,7 @@ def main():
 
     about = read_file(pages, "about.md")
     research = read_file(pages, "research.md")
+    publications = read_file(pages, "publications.md")
     software = read_file(pages, "software.md")
     teaching = read_file(pages, "teaching.md")
     talks = read_file(pages, "talks.md")
@@ -668,7 +680,7 @@ def main():
         gen_patents(research),
         gen_awards(awards),
         gen_books(research),
-        gen_publications(research),
+        gen_publications(publications),
         gen_grants(research),
         gen_software(software),
         gen_teaching(teaching),
@@ -678,6 +690,7 @@ def main():
         gen_conf_proceedings(talks),
         gen_conf_presentations(talks),
         gen_services(services),
+        gen_outreach(teaching),
     ]
 
     output = "\n\n".join(s for s in sections if s)

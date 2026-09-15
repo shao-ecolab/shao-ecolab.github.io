@@ -41,76 +41,77 @@ description: Siya Shao builds process-based ecosystem models in which microbes a
 
 ---
 
-## The Shao Lab
+In the Shao Lab we study how soil microorganisms shape the carbon and nutrient cycles of whole ecosystems. We build process-based models in which microbes are active players rather than hidden inside the equations, and combine them with experimental and observational data to address questions that experiments alone cannot resolve. We work across peatlands, forests, and agricultural systems, in collaboration with field and laboratory research groups.
 
-We develop process-based ecosystem models in which microbes are active players rather than hidden inside the equations, and combine them with experimental and observational data to address questions experiments alone cannot resolve:
-
-- What carbon cost do plants pay for their microbial partners, and when does that investment stop paying off?
-- Which microbial traits propagate upward to shape ecosystem-scale carbon and nutrient fluxes?
-- How much of the carbon removal predicted for a soil-based climate solution is actually realized in a living soil?
-
-We also couple these models with machine learning to build digital twins that forecast ecosystem change under future climate and management. We work across a range of ecosystems — peatlands, forests, and agricultural systems — in collaboration with field and laboratory research groups.
-
-:::{admonition} We are recruiting
-:class: tip
-Funded **postdoctoral positions** are open now, and we are recruiting **graduate students** for Fall 2027 entry plus **undergraduate researchers** on a rolling basis. See [Join the Lab](pages/join) for what we look for and how to get in touch.
-:::
+Models of the Earth system usually treat soil biology as a passive modifier of geochemistry. Our work starts from the opposite premise: that microbial and fungal activity often sets the rate, and that models which leave it implicit get the wrong answer. Representing that biology faithfully means moving between scales — from traits measured on a single fungal isolate to fluxes integrated over a landscape — and between disciplines, from microbial ecology to soil geochemistry to numerical modeling. Meeting that challenge is what makes it possible to predict how ecosystems will respond to climate change and to management.
 
 ---
 
-## Highlights
+## Lab News
 
-::::{grid} 2 2 3 4
+- **August 2026** — The Shao Lab opened in the [Department of Microbiology](https://micro.utk.edu) at the University of Tennessee, Knoxville.
+- **2026** — Co-PI on a Department of Energy Genesis Mission award for autonomous multi-agent AI workflows in coupled bio-hydrogeochemical modeling.
+- **December 2025** — Invited talk at AGU Fall Meeting, New Orleans; convened Session B068 on peatland carbon cycling.
 
-:::{card} Research 🔬
-:link: pages/research
-Publications, grants, and research areas
+[See all news →](pages/news)
+
+---
+
+## Recent Publications
+
+**Shao, S.**, Shortt, Z., Sulman, B., & Hicks Pries, C. (2025). Modeling mycorrhizal carbon costs in temperate forests: the impacts of functional diversity and global change factors. *Journal of Geophysical Research: Biogeosciences*, 130(10). [DOI](https://doi.org/10.1029/2025JG009198) · [Eos Research Spotlight](https://eos.org/research-spotlights/how-plant-fungi-friendships-are-changing)
+
+**Shao, S.**, & Sulman, B. (2024). Eco-evolutionary insights into microbial litter decomposition. *New Phytologist*, 243, 825–827. [DOI](https://doi.org/10.1111/nph.19746)
+
+**Shao, S.**, Wurzburger, N., Sulman, B., & Hicks Pries, C. (2023). Ectomycorrhizal effects on decomposition are highly dependent on fungal traits, climate, and litter properties. *Soil Biology and Biochemistry*, 184, 109073. [DOI](https://doi.org/10.1016/j.soilbio.2023.109073)
+
+**Shao, S.**, Wu, J., He, H., Moore, T. R., Bubier, J., Larmola, T., Juutinen, S., & Roulet, N. T. (2023). Ericoid mycorrhizal fungi mediate the response of ombrotrophic peatlands to fertilization. *New Phytologist*, 238, 80–95. [DOI](https://doi.org/10.1111/nph.18555)
+
+[See all publications →](pages/publications) · [Google Scholar](https://scholar.google.com/citations?user=g1d0Do0AAAAJ)
+
+---
+
+## Research
+
+::::{grid} 1 1 2 2
+
+:::{card} Mycorrhizal carbon economies
+What carbon cost plants pay for their fungal partners, and when that investment stops paying off.
 :::
 
-:::{card} Join the Lab 🌱
-:link: pages/join
-Open positions for students and postdocs
+:::{card} Peatland biogeochemistry
+Microbial and mycorrhizal controls on carbon and nutrient cycling in northern peatlands.
 :::
 
-:::{card} Software 💻
-:link: pages/software
-Models and open-source code
-:::
-
-:::{card} Teaching 🎓
-:link: pages/teaching
-Courses and mentoring
-:::
-
-:::{card} Talks 🎤
-:link: pages/talks
-Invited talks and conference presentations
-:::
-
-:::{card} Awards 🏆
-:link: pages/awards
-Awards and honors
-:::
-
-:::{card} Service 🌍
-:link: pages/services
-Professional and disciplinary service
-:::
-
-:::{card} News 📰
-:link: pages/news
-Latest updates
+:::{card} Enhanced rock weathering
+How much of the carbon removal predicted for soil-based climate solutions is realized in a living soil.
 :::
 
 ::::
 
+[More on our research →](pages/research)
+
 ---
 
-## Recent News
+## Get Involved
 
-- **2026-08** — Joined the [Department of Microbiology](https://micro.utk.edu) at the University of Tennessee, Knoxville as an Assistant Professor.
-- **2026-01** — Co-PI on a Department of Energy Genesis Mission award for autonomous multi-agent AI workflows in coupled bio-hydrogeochemical modeling.
-- **2025-12** — Invited talk at AGU Fall Meeting, New Orleans, on mycorrhizae-explicit ecosystem modeling; convened Session B068 on peatland carbon cycling.
-- **2025-10** — Invited paper published in *JGR: Biogeosciences* as part of the Biogeosciences Leaders of Tomorrow special collection; [featured on AGU's Eos](https://eos.org/research-spotlights/how-plant-fungi-friendships-are-changing).
+Our group is building an understanding of plant–microbe–mineral interactions across ecosystems, using process-based modeling together with field and laboratory data. You do not need to arrive already knowing how to model — most people who join a modeling lab learn the modeling here.
 
-[See all news →](pages/news)
+**Funded postdoctoral positions are open now.** We are also recruiting **graduate students** for Fall 2027 entry through the [Department of Microbiology graduate program](https://micro.utk.edu/graduate/), and **undergraduate researchers** on a rolling basis.
+
+If you are a prospective student or postdoc, please see [additional information and guidance here](pages/join).
+
+---
+
+## Contact
+
+[sshao3@utk.edu](mailto:sshao3@utk.edu)
+
+Department of Microbiology, University of Tennessee, Knoxville
+301 Ken and Blaire Mossman Building, 1311 Cumberland Avenue, Knoxville, TN 37996
+
+[CV (PDF)](cv.pdf) ·
+[Google Scholar](https://scholar.google.com/citations?user=g1d0Do0AAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-8293-3450) ·
+[LinkedIn](https://www.linkedin.com/in/siyashao/) ·
+[UTK Profile](https://micro.utk.edu/faculty/siya-shao/)

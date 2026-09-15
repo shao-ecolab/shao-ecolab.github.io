@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Teaching & Outreach
 description: Courses and student mentoring by Siya Shao.
 keywords:
   - Teaching
@@ -58,3 +58,9 @@ Teaching in the Shao Lab centers on making quantitative and computational approa
 | Zachary Shortt | "When do mixed mycorrhizal forests have the lowest carbon cost for nitrogen uptake?" — resulted in a co-authored publication in *JGR: Biogeosciences* | Dartmouth College | 2022--2024 |
 
 :::
+
+---
+
+## Outreach
+
+- **Science Day Volunteer**, Dartmouth College, 2023. Led hands-on soil science activities for 5th–10th grade students, introducing participants to what soil is, why it matters, and how scientists study soils.
