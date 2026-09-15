@@ -2,60 +2,44 @@
 title: Siya Shao
 subtitle: Assistant Professor of Microbiology, University of Tennessee, Knoxville
 description: Siya Shao builds process-based ecosystem models in which microbes are active players, linking microbial traits to ecosystem carbon and nutrient cycling.
-thumbnail: pages/images/lab-banner-social.jpg
 ---
 
-:::::{grid} 1 2 2 2
-:class-container: profile-layout
+::::{grid} 1 1 2 2
 
-::::{grid-item}
-:columns: 12 12 3 3
-:class: profile-card
+:::{grid-item}
+:columns: 12 12 4 4
 
-```{image} pages/images/siya-shao-avatar.webp
-:alt: Portrait of Siya Shao
-:width: 100%
-:class: avatar
+```{image} pages/images/siya-shao.jpg
+:alt: Siya Shao
+:width: 95%
+:class: rounded
 ```
 
-```{div}
-:class: profile-links
+:::
 
-📍 Knoxville, Tennessee
+:::{grid-item}
+:columns: 12 12 8 8
 
-🏛 [Department of Microbiology](https://micro.utk.edu)
+**Assistant Professor** | **Ecosystem Modeler**
 
-🏢 301 Ken and Blaire Mossman Bldg.
+[Department of Microbiology](https://micro.utk.edu), University of Tennessee, Knoxville
 
-✉️ [sshao3@utk.edu](mailto:sshao3@utk.edu)
+301 Ken and Blaire Mossman Building, 1311 Cumberland Avenue, Knoxville, TN 37996
 
-📄 [CV (PDF)](cv.pdf)
+[sshao3@utk.edu](mailto:sshao3@utk.edu)
 
-🎓 [Google Scholar](https://scholar.google.com/citations?user=g1d0Do0AAAAJ)
+**Research Interests:** Plant–microbe interactions, ecosystem modeling, mycorrhizal fungi, global change biology, biogeochemical cycles, enhanced rock weathering, carbon sequestration
 
-🆔 [ORCID](https://orcid.org/0000-0001-8293-3450)
+[CV (PDF)](cv.pdf) |
+[Google Scholar](https://scholar.google.com/citations?user=g1d0Do0AAAAJ) |
+[ORCID](https://orcid.org/0000-0001-8293-3450) |
+[LinkedIn](https://www.linkedin.com/in/siyashao/) |
+[UTK Profile](https://micro.utk.edu/faculty/siya-shao/)
 
-💼 [LinkedIn](https://www.linkedin.com/in/siyashao/)
-
-🏫 [UTK Profile](https://micro.utk.edu/faculty/siya-shao/)
-```
-
+:::
 ::::
 
-::::{grid-item}
-:columns: 12 12 9 9
-
-```{image} pages/images/lab-banner.webp
-:alt: A landscape cross-section spanning a peatland pool, a conifer forest, and a row-crop field, cut away below ground to show a plant's root system threaded with mycorrhizal hyphae, soil microbes, and weathering mineral grains, with a networked globe at the right edge.
-:width: 100%
-:class: hero-banner
-```
-
-```{div}
-:class: hero-tagline
-
-Plant–microbe–mineral interactions across ecosystems
-```
+---
 
 ## The Shao Lab
 
@@ -71,10 +55,6 @@ We also couple these models with machine learning to build digital twins that fo
 :class: tip
 Funded **postdoctoral positions** are open now, and we are recruiting **graduate students** for Fall 2027 entry plus **undergraduate researchers** on a rolling basis. See [Join the Lab](pages/join) for what we look for and how to get in touch.
 :::
-
-::::
-
-:::::
 
 ---
 
