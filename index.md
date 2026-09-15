@@ -57,20 +57,6 @@ Models of the Earth system usually treat soil biology as a passive modifier of g
 
 ---
 
-## Recent Publications
-
-**Shao, S.**, Shortt, Z., Sulman, B., & Hicks Pries, C. (2025). Modeling mycorrhizal carbon costs in temperate forests: the impacts of functional diversity and global change factors. *Journal of Geophysical Research: Biogeosciences*, 130(10). [DOI](https://doi.org/10.1029/2025JG009198) · [Eos Research Spotlight](https://eos.org/research-spotlights/how-plant-fungi-friendships-are-changing)
-
-**Shao, S.**, & Sulman, B. (2024). Eco-evolutionary insights into microbial litter decomposition. *New Phytologist*, 243, 825–827. [DOI](https://doi.org/10.1111/nph.19746)
-
-**Shao, S.**, Wurzburger, N., Sulman, B., & Hicks Pries, C. (2023). Ectomycorrhizal effects on decomposition are highly dependent on fungal traits, climate, and litter properties. *Soil Biology and Biochemistry*, 184, 109073. [DOI](https://doi.org/10.1016/j.soilbio.2023.109073)
-
-**Shao, S.**, Wu, J., He, H., Moore, T. R., Bubier, J., Larmola, T., Juutinen, S., & Roulet, N. T. (2023). Ericoid mycorrhizal fungi mediate the response of ombrotrophic peatlands to fertilization. *New Phytologist*, 238, 80–95. [DOI](https://doi.org/10.1111/nph.18555)
-
-[See all publications →](pages/publications) · [Google Scholar](https://scholar.google.com/citations?user=g1d0Do0AAAAJ)
-
----
-
 ## Research
 
 ::::{grid} 1 1 2 2
