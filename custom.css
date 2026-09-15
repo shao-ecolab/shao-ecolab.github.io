@@ -92,3 +92,18 @@ img.rounded,
 .rounded img {
   border-radius: 12px;
 }
+
+/* Homepage hero banner */
+.hero-banner img,
+img.hero-banner {
+  border-radius: 10px;
+  width: 100%;
+  display: block;
+}
+.hero-tagline {
+  margin: 0.6rem 0 1.6rem;
+  text-align: center;
+  font-style: italic;
+  font-size: 1.05rem;
+  opacity: 0.8;
+}

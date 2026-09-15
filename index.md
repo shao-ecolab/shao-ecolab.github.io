@@ -2,7 +2,20 @@
 title: Siya Shao
 subtitle: Assistant Professor of Microbiology, University of Tennessee, Knoxville
 description: Siya Shao builds process-based ecosystem models in which microbes are active players, linking microbial traits to ecosystem carbon and nutrient cycling.
+thumbnail: pages/images/lab-banner-social.jpg
 ---
+
+```{image} pages/images/lab-banner.webp
+:alt: A landscape cross-section spanning a peatland pool, a conifer forest, and a row-crop field, cut away below ground to show a plant's root system threaded with mycorrhizal hyphae, soil microbes, and weathering mineral grains, with a networked globe at the right edge.
+:width: 100%
+:class: hero-banner
+```
+
+```{div}
+:class: hero-tagline
+
+Plant–microbe–mineral interactions across ecosystems
+```
 
 ::::{grid} 1 1 2 2
 
