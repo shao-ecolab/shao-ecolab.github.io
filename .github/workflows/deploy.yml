@@ -78,6 +78,13 @@ jobs:
             sed -i 's|http://localhost:[0-9]*|https://shao-ecolab.github.io|g' ./_build/html/sitemap.xml
           fi
 
+      - name: Make og:image an absolute URL
+        # Open Graph requires absolute URLs; MyST emits a site-relative path,
+        # which Slack/LinkedIn/Bluesky cannot resolve, so previews come out blank.
+        run: |
+          find ./_build/html -name "*.html" -exec \
+            sed -i 's|\(<meta property="og:image" content="\)/|\1https://shao-ecolab.github.io/|g' {} +
+
       - name: Inject Giscus comments into blog posts
         run: python inject_comments.py
 
