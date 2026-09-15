@@ -87,10 +87,15 @@ table th:first-child {
   border-radius: 4px;
 }
 
-/* Homepage headshot */
-img.rounded,
-.rounded img {
-  border-radius: 12px;
+/* Homepage circular avatar */
+img.avatar,
+.avatar img {
+  border-radius: 50%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+  width: 100%;
+  max-width: 170px;
 }
 
 /* Homepage hero banner */
@@ -106,4 +111,12 @@ img.hero-banner {
   font-style: italic;
   font-size: 1.05rem;
   opacity: 0.8;
+}
+
+/* Smaller avatar on phones so the details column keeps usable width */
+@media (max-width: 640px) {
+  img.avatar,
+  .avatar img {
+    max-width: 110px;
+  }
 }

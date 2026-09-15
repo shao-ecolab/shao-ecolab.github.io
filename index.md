@@ -5,33 +5,21 @@ description: Siya Shao builds process-based ecosystem models in which microbes a
 thumbnail: pages/images/lab-banner-social.jpg
 ---
 
-```{image} pages/images/lab-banner.webp
-:alt: A landscape cross-section spanning a peatland pool, a conifer forest, and a row-crop field, cut away below ground to show a plant's root system threaded with mycorrhizal hyphae, soil microbes, and weathering mineral grains, with a networked globe at the right edge.
-:width: 100%
-:class: hero-banner
-```
-
-```{div}
-:class: hero-tagline
-
-Plant–microbe–mineral interactions across ecosystems
-```
-
-::::{grid} 1 1 2 2
+::::{grid} 2 2 2 2
 
 :::{grid-item}
-:columns: 12 12 4 4
+:columns: 4 4 3 3
 
-```{image} pages/images/siya-shao.jpg
-:alt: Siya Shao
-:width: 95%
-:class: rounded
+```{image} pages/images/siya-shao-avatar.webp
+:alt: Portrait of Siya Shao
+:width: 100%
+:class: avatar
 ```
 
 :::
 
 :::{grid-item}
-:columns: 12 12 8 8
+:columns: 8 8 9 9
 
 **Assistant Professor** | **Ecosystem Modeler**
 
@@ -51,6 +39,18 @@ Plant–microbe–mineral interactions across ecosystems
 
 :::
 ::::
+
+```{image} pages/images/lab-banner.webp
+:alt: A landscape cross-section spanning a peatland pool, a conifer forest, and a row-crop field, cut away below ground to show a plant's root system threaded with mycorrhizal hyphae, soil microbes, and weathering mineral grains, with a networked globe at the right edge.
+:width: 100%
+:class: hero-banner
+```
+
+```{div}
+:class: hero-tagline
+
+Plant–microbe–mineral interactions across ecosystems
+```
 
 ---
 
