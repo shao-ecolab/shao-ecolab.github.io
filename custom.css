@@ -409,3 +409,19 @@ img.portrait-fill,
     text-align: right;
   }
 }
+
+/* Search icon: the theme's SVG is 40px with 10px padding, leaving a ~20px
+   glyph, and the button's own padding clamps it further. Zeroing both and
+   sizing the button gives a 40px glyph - twice the original. */
+.myst-search-bar {
+  padding: 0 !important;
+  width: 44px !important;
+  height: 44px !important;
+  justify-content: center;
+}
+.myst-search-bar svg {
+  width: 40px !important;
+  height: 40px !important;
+  max-width: none !important;
+  padding: 0 !important;
+}
