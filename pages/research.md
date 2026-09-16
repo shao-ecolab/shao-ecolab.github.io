@@ -13,27 +13,7 @@ keywords:
 
 ## Microbes as active players in ecosystem models
 
-Our research asks how the activity of soil microorganisms — fungi in particular — sets the rate of carbon and nutrient cycling at the ecosystem scale, and what changes when models represent that activity explicitly rather than burying it in bulk decay constants. We combine process-based ecosystem models with field and laboratory data across peatlands, temperate forests and agricultural soils, working at the interface of microbial ecology, soil biogeochemistry and numerical modeling.
-
----
-
-## Themes & Tools
-
-::::{grid} 1 1 3 3
-
-:::{card} Process-based ecosystem modeling
-*model development, numerical experiments, field and laboratory validation*
-:::
-
-:::{card} Microbial traits in models
-*trait data synthesis, data–model integration, scaling from isolate to ecosystem*
-:::
-
-:::{card} Machine learning & digital twins
-*knowledge-guided surrogates, long-term emulation, GPU workflows*
-:::
-
-::::
+Our research asks how the activity of soil microorganisms — fungi in particular — sets the rate of carbon and nutrient cycling at the ecosystem scale, and what changes when models represent that activity explicitly rather than burying it in bulk decay constants. We combine process-based ecosystem models with field and laboratory data across peatlands, temperate forests and agricultural soils, and couple those models with machine learning to build digital twins that forecast ecosystem change. The work sits at the interface of microbial ecology, soil biogeochemistry and numerical modeling.
 
 ---
 
