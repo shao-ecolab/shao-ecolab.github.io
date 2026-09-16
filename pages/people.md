@@ -29,11 +29,24 @@ keywords:
 
 ### Siya Shao
 
-Assistant Professor, [Department of Microbiology](https://micro.utk.edu), University of Tennessee, Knoxville
+**Assistant Professor | Ecosystem Modeler**
+
+[Department of Microbiology](https://micro.utk.edu), University of Tennessee, Knoxville
+
+301 Ken and Blaire Mossman Building, 1311 Cumberland Avenue, Knoxville, TN 37996
+
+[sshao3@utk.edu](mailto:sshao3@utk.edu)
+
+**Research Interests:** Plant–microbe interactions, ecosystem modeling, mycorrhizal fungi, global change biology, biogeochemical cycles, enhanced rock weathering, carbon sequestration
 
 Siya builds process-based ecosystem models in which microbes are active players, working across peatlands, temperate forests, and agricultural systems. Before UTK he was a postdoctoral researcher at Lawrence Berkeley National Laboratory and the University of Arizona, and at Dartmouth College, after a PhD in Geography at McGill University.
 
-[Full biography →](about) · [Publications →](publications) · [CV (PDF)](../cv.pdf)
+[CV (PDF)](../cv.pdf) |
+[Google Scholar](https://scholar.google.com/citations?user=g1d0Do0AAAAJ) |
+[ORCID](https://orcid.org/0000-0001-8293-3450) |
+[LinkedIn](https://www.linkedin.com/in/siyashao/) |
+[UTK Profile](https://micro.utk.edu/faculty/siya-shao/) |
+[Full biography →](about)
 
 :::
 ::::

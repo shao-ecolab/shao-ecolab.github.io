@@ -239,3 +239,65 @@ img.rounded,
 .myst-outline {
   display: none !important;
 }
+
+/* ---------------------------------------------------------------
+   Homepage hero: the title block sits over a full-bleed photo with a
+   dark scrim, in the manner of the Ecoclimate Lab site. Scoped with
+   :has() to the page that carries the hero image.
+   --------------------------------------------------------------- */
+article:has(img.home-hero-bg) {
+  position: relative;
+}
+main.article-grid > article:has(img.home-hero-bg) > img.home-hero-bg.home-hero-bg {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  grid-column: screen !important;
+  width: 100% !important;
+  max-width: none !important;
+  height: 360px;
+  object-fit: cover;
+  object-position: center 60%;
+  margin: 0 !important;
+  z-index: 0;
+  border-radius: 0 !important;
+}
+main.article-grid > article:has(img.home-hero-bg) > .myst-fm-block.myst-fm-block {
+  position: relative;
+  z-index: 1;
+  grid-column: screen !important;
+  width: 100% !important;
+  max-width: none !important;
+  min-height: 360px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 0 2.75rem !important;
+  padding-top: 0 !important;
+  padding-inline: max(1.5rem, calc((100% - var(--shao-container)) / 2)) !important;
+  /* scrim keeps white text legible over the bright left side of the photo */
+  background: linear-gradient(90deg, rgba(8, 20, 14, 0.66) 0%, rgba(8, 20, 14, 0.5) 55%, rgba(8, 20, 14, 0.38) 100%);
+}
+article:has(img.home-hero-bg) .myst-fm-block h1,
+article:has(img.home-hero-bg) .myst-fm-block p,
+article:has(img.home-hero-bg) .myst-fm-block a {
+  color: #ffffff !important;
+}
+article:has(img.home-hero-bg) .myst-fm-block h1 {
+  font-size: 3rem;
+  margin-bottom: 0.4rem;
+}
+article:has(img.home-hero-bg) .myst-fm-block .myst-fm-block-subtitle {
+  font-size: 1.25rem;
+  opacity: 0.95;
+}
+/* the author/affiliation strip is redundant inside the hero */
+article:has(img.home-hero-bg) .myst-fm-authors-affiliations,
+article:has(img.home-hero-bg) .myst-fm-block-header {
+  display: none !important;
+}
+@media (max-width: 767px) {
+  main.article-grid > article:has(img.home-hero-bg) > img.home-hero-bg.home-hero-bg { height: 240px; }
+  main.article-grid > article:has(img.home-hero-bg) > .myst-fm-block.myst-fm-block { min-height: 240px; }
+  article:has(img.home-hero-bg) .myst-fm-block h1 { font-size: 2rem; }
+}

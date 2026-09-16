@@ -1,45 +1,13 @@
 ---
-title: Siya Shao
-subtitle: Assistant Professor of Microbiology, University of Tennessee, Knoxville
+title: The Shao Lab
+subtitle: Siya Shao, University of Tennessee, Knoxville
 description: Siya Shao builds process-based ecosystem models in which microbes are active players, linking microbial traits to ecosystem carbon and nutrient cycling.
 ---
 
-::::{grid} 1 1 2 2
-
-:::{grid-item}
-:columns: 12 12 4 4
-
-```{image} pages/images/siya-shao.jpg
-:alt: Siya Shao
-:width: 95%
-:class: rounded
+```{image} pages/images/lab-banner.webp
+:alt: A landscape cross-section spanning a peatland pool, a conifer forest, and a row-crop field, cut away below ground to show a plant's root system threaded with mycorrhizal hyphae, soil microbes, and weathering mineral grains.
+:class: home-hero-bg
 ```
-
-:::
-
-:::{grid-item}
-:columns: 12 12 8 8
-
-**Assistant Professor** | **Ecosystem Modeler**
-
-[Department of Microbiology](https://micro.utk.edu), University of Tennessee, Knoxville
-
-301 Ken and Blaire Mossman Building, 1311 Cumberland Avenue, Knoxville, TN 37996
-
-[sshao3@utk.edu](mailto:sshao3@utk.edu)
-
-**Research Interests:** Plant–microbe interactions, ecosystem modeling, mycorrhizal fungi, global change biology, biogeochemical cycles, enhanced rock weathering, carbon sequestration
-
-[CV (PDF)](cv.pdf) |
-[Google Scholar](https://scholar.google.com/citations?user=g1d0Do0AAAAJ) |
-[ORCID](https://orcid.org/0000-0001-8293-3450) |
-[LinkedIn](https://www.linkedin.com/in/siyashao/) |
-[UTK Profile](https://micro.utk.edu/faculty/siya-shao/)
-
-:::
-::::
-
----
 
 In the Shao Lab we study how soil microorganisms shape the carbon and nutrient cycles of whole ecosystems. We build process-based models in which microbes are active players rather than hidden inside the equations, and combine them with experimental and observational data to address questions that experiments alone cannot resolve. We work across peatlands, forests, and agricultural systems, in collaboration with field and laboratory research groups.
 
