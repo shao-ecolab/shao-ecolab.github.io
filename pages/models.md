@@ -25,7 +25,7 @@ A process-based model of peatland carbon and nutrient cycling. Our contributions
 ```{image} images/mwm-structure.webp
 :alt: MWM structure: net primary production feeding litter into stacked peat cohorts with diffusion, advection and runoff, expanded to show the soil organic carbon, dissolved organic carbon, microbial biomass and enzyme pools
 :width: 100%
-:class: model-fig model-fig-tall
+:class: model-fig
 ```
 
 ```{div}
@@ -39,15 +39,15 @@ Peat cohort tracking and microbial decomposition. From [Shao et al. 2022, *STOTE
 :columns: 12 12 6 6
 
 ```{image} images/mwm-erm-structure.webp
-:alt: Two-panel MWM structure diagram: nitrogen and phosphorus flows among moss, shrubs, ericoid mycorrhizal fungi, saprotrophs and soil organic and inorganic pools, and the carbon, nitrogen and phosphorus exchange between shrub and ericoid mycorrhizal reserves
+:alt: Carbon, nitrogen and phosphorus exchange between shrub and ericoid mycorrhizal fungi: photosynthate builds a plant reserve C pool transferred to ERM fungi, which mine peat organic N and P and transfer nutrients back to the shrub
 :width: 100%
-:class: model-fig model-fig-tall
+:class: model-fig
 ```
 
 ```{div}
 :class: fig-caption
 
-Nutrient cycling and the shrub–ericoid mycorrhizal exchange. From [Shao et al. 2023, *New Phytologist*](https://doi.org/10.1111/nph.18555)
+Carbon-for-nutrient exchange between shrubs and ericoid mycorrhizal fungi. From [Shao et al. 2023, *New Phytologist*](https://doi.org/10.1111/nph.18555)
 ```
 
 :::
