@@ -29,8 +29,8 @@ A comprehensive process-based ecosystem model. We extended it with mineral disso
 Manuscript in preparation
 :::
 
-:::{card} CORPSE-based mycorrhizal models
-Model developments representing mycorrhizal functional diversity and the carbon cost of nitrogen acquisition in temperate forests.
+:::{card} Myco-CORPSE
+An extension of the CORPSE soil carbon model that represents mycorrhizal functional diversity and the carbon cost of nitrogen acquisition in temperate forests.
 +++
 [Shao et al. 2023, *SBB*](https://doi.org/10.1016/j.soilbio.2023.109073) · [Shao et al. 2025, *JGR-BG*](https://doi.org/10.1029/2025JG009198)
 :::
