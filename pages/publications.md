@@ -10,33 +10,16 @@ keywords:
 
 ## Refereed Publications
 
-**Published:** 10 peer-reviewed papers | See [Google Scholar](https://scholar.google.com/citations?user=g1d0Do0AAAAJ) for current citation metrics
-
-:::{dropdown} 2025
-:open:
-
 **Shao, S.**, Shortt, Z., Sulman, B., & Hicks Pries, C. (2025). Modeling mycorrhizal carbon costs in temperate forests: the impacts of functional diversity and global change factors. *Journal of Geophysical Research: Biogeosciences*, 130(10), e2025JG009198. [https://doi.org/10.1029/2025JG009198](https://doi.org/10.1029/2025JG009198)
 *Invited contribution to the "Biogeosciences Leaders of Tomorrow" Special Collection. Featured on AGU's Eos Research Spotlight: [How Plant-Fungi Friendships Are Changing](https://eos.org/research-spotlights/how-plant-fungi-friendships-are-changing). Z. Shortt was a mentored undergraduate student.*
 
 Zhang, C., Ke, W., Hicks Pries, C., Montaño-López, F., Ridgeway, J., Wang, L., Yin, Y., Ye, S., Song, S., Liu, X., Dou, X., Guo, X., Li, M., **Shao, S.**, Lv, S., Zheng, Y., & Lin, G. (2025). Higher nitrification and lower consumption drive higher N₂O effluxes in estuarine than non-estuarine mangrove wetlands. *Environmental Research Letters*, 20(4), 044022. [https://doi.org/10.1088/1748-9326/adbdde](https://doi.org/10.1088/1748-9326/adbdde)
 
-:::
-
-:::{dropdown} 2024
-
 **Shao, S.**, & Sulman, B. (2024). Eco-evolutionary insights into microbial litter decomposition. *New Phytologist*, 243, 825–827. [https://doi.org/10.1111/nph.19746](https://doi.org/10.1111/nph.19746)
-
-:::
-
-:::{dropdown} 2023
 
 **Shao, S.**, Wurzburger, N., Sulman, B., & Hicks Pries, C. (2023). Ectomycorrhizal effects on decomposition are highly dependent on fungal traits, climate, and litter properties: A model-based assessment. *Soil Biology and Biochemistry*, 184, 109073. [https://doi.org/10.1016/j.soilbio.2023.109073](https://doi.org/10.1016/j.soilbio.2023.109073)
 
 **Shao, S.**, Wu, J., He, H., Moore, T. R., Bubier, J., Larmola, T., Juutinen, S., & Roulet, N. T. (2023). Ericoid mycorrhizal fungi mediate the response of ombrotrophic peatlands to fertilization: a modeling study. *New Phytologist*, 238, 80–95. [https://doi.org/10.1111/nph.18555](https://doi.org/10.1111/nph.18555)
-
-:::
-
-:::{dropdown} 2015–2022
 
 **Shao, S.**, Wu, J., He, H., & Roulet, N. (2022). Integrating McGill Wetland Model (MWM) with peat cohort tracking and microbial controls. *Science of the Total Environment*, 806, 151223. [https://doi.org/10.1016/j.scitotenv.2021.151223](https://doi.org/10.1016/j.scitotenv.2021.151223)
 
@@ -48,21 +31,17 @@ Zhang, J., Lyu, Z., **Shao, S.**, Li, F., Yang, S., Song, W., Li, W., Li, S., & 
 
 **Shao, S.**, & Zhang, J. (2015). All-sky direct radiative effects of urban aerosols in Beijing and Shanghai, China. *Atmospheric and Oceanic Science Letters*, 8, 295–300. [https://doi.org/10.3878/AOSL20150017](https://doi.org/10.3878/AOSL20150017)
 
-:::
-
 ---
 
 ## In Review and In Preparation
 
-:::{dropdown} In review
+### In review
 
 Shi, X., Ricciuto, D., Wang, Y., Hanson, P., Mao, J., Luo, Y., Xu, X., Hui, D., He, H., **Shao, S.**, Hussain, A., Sun, Q., Qiu, C., Ito, A., Melton, J., Burke, E., Joos, F., Zhuang, Q., Dai, Y., & Lu, X. SPRUCE-MIP: multi-model intercomparison of northern peatland carbon cycle over a peatland site.
 
 Yang, S., Tang, J., Li, Z., **Shao, S.**, Zhang, L., Yuan, K., Wu, Q., Hodgkins, S., Wilson, R., Zhu, Q., Grant, R., Riley, W., Saleska, S., Rich, V., & Varner, R. Temporal variability in the causal dynamics of methanogenesis and methanotrophy in a high-latitude fen peatland.
 
-:::
-
-:::{dropdown} In preparation
+### In preparation
 
 **Shao, S.**, Riley, W., Grant, S., Li, Z., Yang, S., Tang, J., Beerling, D., Taylor, L., Zhang, L., & Saleska, S. Biological processes govern carbon removal during enhanced rock weathering.
 
@@ -72,4 +51,3 @@ Rocci, K. S., **Shao, S.**, Sulman, B. N., Aguilar-Trigueros, C. A., DeLancey, L
 
 Esquivel, K. E., Sohng, J., O'Geen, A. T., Ben-Israel, M., Whiteaker, S., Schmidt, R., Georgiou, K., Li, Z., **Shao, S.**, Maxbauer, D. P., Planavsky, N. J., Montañez, I. P., Pett-Ridge, J., & Sokol, N. W. Beyond weathering: combining organic and inorganic soil-based carbon drawdown.
 
-:::
