@@ -56,7 +56,7 @@ Plants trade photosynthate for nutrients acquired by mycorrhizal fungi, and the 
 :columns: 12 12 5 5
 
 ```{image} images/research-peatlands.webp
-:alt: Cross-section of an ombrotrophic bog showing carbon, nitrogen and phosphorus pools and fluxes among Sphagnum moss, ericaceous shrubs, ericoid mycorrhizal fungi, saprotrophs and the acrotelm and catotelm peat layers
+:alt: The open surface of Mer Bleue Bog near Ottawa in autumn: a carpet of russet ericaceous shrubs over Sphagnum peat, dotted with stunted tamarack and birch
 :width: 100%
 :class: research-fig
 ```
@@ -67,6 +67,12 @@ Plants trade photosynthate for nutrients acquired by mycorrhizal fungi, and the 
 :columns: 12 12 7 7
 
 Northern peatlands hold a large share of global soil carbon, and their fate under warming and nitrogen deposition depends on microbial and mycorrhizal processes that peatland models have largely left implicit. Ericoid mycorrhizal fungi mine organic nutrients in these systems, potentially coupling shrub productivity to peat decomposition. We extend the McGill Wetland Model with peat cohort tracking, microbial controls and an explicit ericoid mycorrhizal pool to ask how nutrient cycling mediated by plant–microbe interactions shapes the response of ombrotrophic bogs to fertilization and environmental change.
+
+```{div}
+:class: fig-credit
+
+Mer Bleue Bog, Ottawa. Photo: [cjuneau](https://commons.wikimedia.org/wiki/File:Mer_Bleue_Peat_Bog_(10085456813).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+```
 
 *Relevant publications:* [Shao et al. *New Phytologist* (2023)](https://doi.org/10.1111/nph.18555) · [Shao et al. *Science of the Total Environment* (2022)](https://doi.org/10.1016/j.scitotenv.2021.151223) · SPRUCE-MIP multi-model intercomparison (in review)
 

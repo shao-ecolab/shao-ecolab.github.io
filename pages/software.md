@@ -19,6 +19,11 @@ The lab's work is built on process-based ecosystem models. We develop new proces
 
 :::{card} McGill Wetland Model (MWM)
 A process-based model of peatland carbon and nutrient cycling. Our contributions added peat cohort tracking, microbial controls, and an explicit ericoid mycorrhizal fungal pool.
+
+```{image} images/mwm-bog-diagram.webp
+:alt: Cross-section of an ombrotrophic bog showing carbon, nitrogen and phosphorus pools and fluxes among Sphagnum moss, ericaceous shrubs, ericoid mycorrhizal fungi, saprotrophs and the acrotelm and catotelm peat layers
+:width: 100%
+```
 +++
 [Shao et al. 2022, *STOTEN*](https://doi.org/10.1016/j.scitotenv.2021.151223) · [Shao et al. 2023, *New Phytologist*](https://doi.org/10.1111/nph.18555)
 :::
