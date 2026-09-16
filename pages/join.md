@@ -45,13 +45,9 @@ Backgrounds that work well here: microbiology, ecology, soil science, environmen
 
 ## Graduate Students
 
-**Admission is through the department, not directly into this lab.** UTK Microbiology admits students centrally through a rotation system: the committee evaluates all applicants together, and naming a faculty member on your application does not assign you to that group.
+**Admission is through the department, not directly into this lab.** UTK Microbiology admits students centrally through a rotation system: you start in August as a Graduate Teaching Assistant, rotate through two or three labs in the first semester, then settle into one by mutual agreement. I am glad to host rotations.
 
-Students start in August — there are no spring admits — and are funded initially as Graduate Teaching Assistants. In the first semester you rotate through two or three labs, then settle into one for your thesis or dissertation by mutual agreement with the faculty member and the graduate director. Some students later move onto a Graduate Research Assistantship if their advisor has grant funding for it. I am glad to host rotations, and I value the rotation period as a chance for both of us to see whether our working styles fit.
-
-Apply through the [Department of Microbiology graduate program](https://micro.utk.edu/graduate/). The portal opens in late summer and the admissions committee begins evaluating in December, so aim to submit by **1 December**. The GRE is not required, independent research experience carries real weight, and the department cannot waive the application fee. The [admissions FAQ](https://micro.utk.edu/graduate/frequently-asked-questions/) answers most other questions.
-
-You are welcome to email before applying so we can talk about fit — but note that an email to me is not an admission decision, and I cannot admit you directly.
+Apply through the [Department of Microbiology graduate program](https://micro.utk.edu/graduate/), aiming to submit by **1 December**. You are welcome to email before applying so we can talk about fit.
 
 **In your email, include:**
 
