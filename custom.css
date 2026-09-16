@@ -178,18 +178,51 @@ img.rounded,
 }
 
 /* ---------------------------------------------------------------
-   Match the content width to the top bar so "Shao Lab" and the search
-   icon line up with the left and right edges of the body text.
+   One fixed-width, centred container shared by the top bar and the
+   page content, so the logo and search icon always line up with the
+   left and right edges of the body text at any window width.
    --------------------------------------------------------------- */
+:root { --shao-container: 1170px; }
+
 @media (min-width: 1280px) {
-  /* Body content spans the full page column instead of the narrow
-     body column, which is inset asymmetrically to leave a TOC rail. */
+  /* Top bar: logo left, links right, search far right, inside the container */
+  .myst-top-nav {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  .myst-top-nav-bar {
+    max-width: var(--shao-container);
+    width: 100%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+  .myst-home-link { margin-left: 0 !important; }
+
+  .myst-toc {
+    max-width: var(--shao-container);
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding: 0 3.25rem 0 0 !important;   /* clears the search icon */
+  }
+
+  /* Content: use the full page column, then centre it at the same width */
   main.article-grid > article > *:not(.col-screen):not(.col-page):not(.col-page-right) {
     grid-column: page !important;
+    width: 100% !important;   /* the title block sizes to content without this */
+    max-width: var(--shao-container);
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
-  /* The logo carries a 28px left margin that pushed it past the text. */
-  .myst-home-link {
-    margin-left: 0 !important;
+
+  /* The auto-generated bibliography is a col-screen wrapper whose inner
+     content otherwise stays in the old narrow body column. */
+  .myst-bibliography > *,
+  footer.article > * {
+    grid-column: page !important;
+    width: 100% !important;
+    max-width: var(--shao-container);
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
 }
 
