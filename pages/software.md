@@ -114,6 +114,22 @@ A comprehensive process-based ecosystem model. We extended it with mineral disso
 :::{grid-item}
 :columns: 12 12 6 6
 
+```{image} images/ecosys-architecture.webp
+:alt: Integrated process architecture of ecosys: coupled carbon, nitrogen, phosphorus, water, energy and mineral transformations across plant, soil and atmosphere, including plant allocation, five substrate-microbe complexes, microbial functional groups and soil hydrology
+:width: 100%
+:class: model-fig
+```
+
+```{div}
+:class: fig-caption
+
+Integrated process architecture: coupled C, N, P, water, energy and mineral transformations across plant, soil and atmosphere
+```
+
+:::
+:::{grid-item}
+:columns: 12 12 6 6
+
 ```{image} images/ecosys-model-schematic.webp
 :alt: Schematic of enhanced rock weathering in the ecosys model: geochemical weathering, secondary precipitation, the soil nutrient cycle, production of non-carbonate acids and plant eco-hydrological feedbacks
 :width: 100%
@@ -124,22 +140,6 @@ A comprehensive process-based ecosystem model. We extended it with mineral disso
 :class: fig-caption
 
 Coupled weathering, nutrient and plant processes as implemented in ecosys
-```
-
-:::
-:::{grid-item}
-:columns: 12 12 6 6
-
-```{image} images/ecosys-erw-schematic.webp
-:alt: Schematic of the plant-microbe CO2 pump - photosynthesis fuels microbial respiration, whose CO2 drives silicate weathering, while the products are exported, precipitated or adsorbed alongside soil organic carbon accumulation
-:width: 100%
-:class: model-fig
-```
-
-```{div}
-:class: fig-caption
-
-The plant–microbe CO₂ pump linking biological activity to weathering
 ```
 
 :::
