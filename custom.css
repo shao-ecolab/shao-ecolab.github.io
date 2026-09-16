@@ -306,3 +306,15 @@ article:has(img.home-hero-bg) .myst-fm-block-header {
 .myst-bibliography {
   display: none !important;
 }
+
+/* Research-area figures: keep the three panels visually comparable
+   despite different native aspect ratios, and never let the portrait
+   ERW schematic tower over the text beside it. */
+img.research-fig,
+.research-fig img {
+  width: 100%;
+  max-height: 300px;
+  object-fit: contain;
+  object-position: left center;
+  border-radius: 8px;
+}
