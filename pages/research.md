@@ -57,7 +57,7 @@ Our research asks how the activity of soil microorganisms — fungi in particula
 :::{grid-item}
 :columns: 12 12 7 7
 
-Plants trade photosynthate for nutrients acquired by mycorrhizal fungi, but the terms of that trade differ sharply between fungal types and shift under global change. We build mycorrhiza-explicit soil models to ask what carbon cost a forest pays for its fungal partners, when that investment stops paying off, and how the answer depends on fungal traits, climate and litter chemistry. This work shows that ectomycorrhizal effects on decomposition — the Gadgil effect among them — are contingent rather than universal, and that representing functional diversity changes predicted soil nitrogen cycling.
+Plants trade photosynthate for nutrients acquired by mycorrhizal fungi, and the terms of that trade differ between fungal types and shift under warming, nitrogen deposition and elevated CO₂. Whether mycorrhizal fungi accelerate or suppress litter decomposition remains contested, and most soil models represent them implicitly if at all. We develop mycorrhiza-explicit soil models to ask what carbon cost a forest pays for its fungal partners, when that investment stops paying off, and how fungal traits, climate and litter chemistry govern the answer.
 
 *Relevant publications:* [Shao et al. *JGR: Biogeosciences* (2025)](https://doi.org/10.1029/2025JG009198) · [Shao et al. *Soil Biology and Biochemistry* (2023)](https://doi.org/10.1016/j.soilbio.2023.109073) · [Shao & Sulman, *New Phytologist* (2024)](https://doi.org/10.1111/nph.19746)
 
@@ -86,7 +86,7 @@ Plants trade photosynthate for nutrients acquired by mycorrhizal fungi, but the 
 :::{grid-item}
 :columns: 12 12 7 7
 
-Northern peatlands hold a large share of global soil carbon, and their fate under warming and nitrogen deposition depends on microbial and mycorrhizal processes that peatland models have largely left implicit. We extended the McGill Wetland Model with peat cohort tracking, microbial controls and an explicit ericoid mycorrhizal pool, and used it to ask how nutrient cycling mediated by plant–microbe interactions shapes the response of ombrotrophic bogs to fertilization and environmental change.
+Northern peatlands hold a large share of global soil carbon, and their fate under warming and nitrogen deposition depends on microbial and mycorrhizal processes that peatland models have largely left implicit. Ericoid mycorrhizal fungi mine organic nutrients in these systems, potentially coupling shrub productivity to peat decomposition. We extend the McGill Wetland Model with peat cohort tracking, microbial controls and an explicit ericoid mycorrhizal pool to ask how nutrient cycling mediated by plant–microbe interactions shapes the response of ombrotrophic bogs to fertilization and environmental change.
 
 *Relevant publications:* [Shao et al. *New Phytologist* (2023)](https://doi.org/10.1111/nph.18555) · [Shao et al. *Science of the Total Environment* (2022)](https://doi.org/10.1016/j.scitotenv.2021.151223) · SPRUCE-MIP multi-model intercomparison (in review)
 
@@ -115,7 +115,7 @@ Northern peatlands hold a large share of global soil carbon, and their fate unde
 :::{grid-item}
 :columns: 12 12 7 7
 
-Enhanced rock weathering spreads crushed silicate rock on farmland to draw down CO₂, and its potential is usually estimated with geochemistry-centred models that treat soil biology as a passive backdrop. We couple plant, microbial and geochemical processes in a single process-based model to ask how much of the predicted carbon removal is actually realized in a living, biologically active soil — where plant-derived carbon fuels the respiration that drives weathering, where weathering products are retained rather than exported, and how soil organic carbon responds. The work bears directly on measurement, reporting and verification for soil-based carbon dioxide removal.
+Enhanced rock weathering spreads crushed silicate rock on farmland to draw down CO₂, and its potential is usually estimated with geochemistry-centred models that treat soil biology as a passive backdrop. Yet most of the CO₂ that drives weathering in soils is biogenic, and the cations released interact with the exchange complex, secondary minerals and organic matter. We couple plant, microbial and geochemical processes in a single process-based ecosystem model to ask how much of the predicted carbon removal is realized in a living soil, which pathways carry it, and what follows for the measurement, reporting and verification of soil-based carbon dioxide removal.
 
 *Relevant publications:* Shao et al., *Biological processes govern carbon removal during enhanced rock weathering* (in preparation) · Esquivel et al., *Beyond weathering: combining organic and inorganic soil-based carbon drawdown* (in preparation)
 
