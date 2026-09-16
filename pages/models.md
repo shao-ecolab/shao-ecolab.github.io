@@ -39,7 +39,7 @@ Peat cohort tracking and microbial decomposition. From [Shao et al. 2022, *STOTE
 :columns: 12 12 6 6
 
 ```{image} images/mwm-erm-structure.webp
-:alt: Carbon, nitrogen and phosphorus exchange between shrub and ericoid mycorrhizal fungi: photosynthate builds a plant reserve C pool transferred to ERM fungi, which mine peat organic N and P and transfer nutrients back to the shrub
+:alt: Two-panel MWM structure diagram: nutrient flows among moss, shrubs, ericoid mycorrhizal fungi, saprotrophs and soil organic and inorganic pools, and the carbon, nitrogen and phosphorus exchange between shrub and ericoid mycorrhizal reserves
 :width: 100%
 :class: model-fig
 ```
@@ -47,7 +47,7 @@ Peat cohort tracking and microbial decomposition. From [Shao et al. 2022, *STOTE
 ```{div}
 :class: fig-caption
 
-Carbon-for-nutrient exchange between shrubs and ericoid mycorrhizal fungi. From [Shao et al. 2023, *New Phytologist*](https://doi.org/10.1111/nph.18555)
+Nutrient cycling and the shrub–ericoid mycorrhizal exchange. From [Shao et al. 2023, *New Phytologist*](https://doi.org/10.1111/nph.18555)
 ```
 
 :::
