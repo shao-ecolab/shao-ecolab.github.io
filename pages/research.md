@@ -91,7 +91,7 @@ Mer Bleue Bog, Ottawa. Photo: [cjuneau](https://commons.wikimedia.org/wiki/File:
 :columns: 12 12 5 5
 
 ```{image} images/research-erw.webp
-:alt: A tractor spreading powdered agricultural lime across a field, throwing up a broad cloud of mineral dust
+:alt: A tractor spreading powdered agricultural lime across a harvested crop field, trailing a long plume of mineral dust
 :width: 100%
 :class: research-fig
 ```
