@@ -350,3 +350,10 @@ html.dark .model-fig img {
   line-height: 1.35;
   margin: 0.45rem 0 0;
 }
+
+/* Taller box for rows containing a portrait figure, applied to both
+   figures in that row so they stay aligned with each other. */
+img.model-fig-tall,
+.model-fig-tall img {
+  aspect-ratio: 4 / 5;
+}
