@@ -27,7 +27,7 @@ Our research asks how the activity of soil microorganisms — fungi in particula
 :columns: 12 12 5 5
 
 ```{image} images/research-forests.webp
-:alt: Conceptual diagram linking nitrogen deposition, temperature and CO2 to soil nitrogen supply, plant nitrogen demand and the carbon cost of mycorrhizal fungi
+:alt: A fly agaric mushroom, Amanita muscaria, growing among moss on a forest floor - the fruiting body of an ectomycorrhizal fungus built from carbon supplied by its host tree
 :width: 100%
 :class: research-fig
 ```
