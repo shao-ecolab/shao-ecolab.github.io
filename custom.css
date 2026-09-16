@@ -415,13 +415,13 @@ img.portrait-fill,
    sizing the button gives a 40px glyph - twice the original. */
 .myst-search-bar {
   padding: 0 !important;
-  width: 34px !important;
-  height: 34px !important;
+  width: 29px !important;
+  height: 29px !important;
   justify-content: center;
 }
 .myst-search-bar svg {
-  width: 30px !important;
-  height: 30px !important;
+  width: 26px !important;
+  height: 26px !important;
   max-width: none !important;
   padding: 0 !important;
 }
