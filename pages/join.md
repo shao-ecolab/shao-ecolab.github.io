@@ -45,9 +45,9 @@ Backgrounds that work well here: microbiology, ecology, soil science, environmen
 
 ## Graduate Students
 
-**Admission is through the department, not directly into this lab.** UTK Microbiology admits students centrally through a rotation system: you start in August as a Graduate Teaching Assistant, rotate through two or three labs in the first semester, then settle into one by mutual agreement. I am glad to host rotations.
+**Admission is through the department, not directly into this lab.** UTK Microbiology uses a rotation system: you rotate through two or three labs in your first semester, then settle into one by mutual agreement. I am glad to host rotations.
 
-Apply through the [Department of Microbiology graduate program](https://micro.utk.edu/graduate/), aiming to submit by **1 December**. You are welcome to email before applying so we can talk about fit.
+Apply through the [Department of Microbiology graduate program](https://micro.utk.edu/graduate/). You are welcome to email before applying so we can talk about fit.
 
 **In your email, include:**
 
