@@ -1,6 +1,6 @@
 ---
-title: Software
-description: Models and open-source code developed and used by the Shao Lab.
+title: Models
+description: Process-based ecosystem models developed and used by the Shao Lab.
 keywords:
   - Software
   - Models
@@ -9,13 +9,11 @@ keywords:
   - McGill Wetland Model
 ---
 
-# Software & Models
+# Models
 
-The lab's work is built on process-based ecosystem models. We develop new process representations, contribute them upstream, and release the analysis code behind our papers.
+The lab's work is built on process-based ecosystem models. We develop new process representations, test them against field and laboratory data, and release the analysis code behind our papers.
 
-## Models We Develop
-
-### McGill Wetland Model (MWM)
+## McGill Wetland Model (MWM)
 
 A process-based model of peatland carbon and nutrient cycling. Our contributions added peat cohort tracking, microbial controls on decomposition, and an explicit ericoid mycorrhizal fungal pool coupled to shrub nutrient demand.
 
@@ -60,7 +58,7 @@ Nutrient cycling and the shrub–ericoid mycorrhizal exchange. From [Shao et al.
 
 ---
 
-### Myco-CORPSE
+## Myco-CORPSE
 
 An extension of the CORPSE soil carbon model that represents mycorrhizal functional diversity and the carbon cost of nitrogen acquisition in temperate forests, with explicit ectomycorrhizal and arbuscular mycorrhizal pools.
 
@@ -105,7 +103,7 @@ Drivers of mycorrhizal carbon cost. From [Shao et al. 2025, *JGR: Biogeosciences
 
 ---
 
-### ecosys
+## ecosys
 
 A comprehensive process-based ecosystem model. We extended it with mineral dissolution kinetics so that enhanced rock weathering is simulated alongside, rather than separately from, plant and microbial activity.
 
@@ -149,14 +147,6 @@ Coupled weathering, nutrient and plant processes as implemented in ecosys
 *Applied in:* enhanced rock weathering and soil carbon removal — see [Research](research)
 
 ---
-
-## Technical Skills
-
-**Languages:** Fortran, Python, MATLAB, R, C, Stella
-
-**Computing:** Linux environments, high-performance computing, GPU-accelerated workflows
-
-**Training:** NERSC N-Ways to GPU Programming Bootcamp (2025); NCAR/UCAR Community Terrestrial Systems Model (CTSM) Tutorial (2022)
 
 :::{note}
 Code repositories for individual papers are being migrated to the [lab GitHub organization](https://github.com/shao-ecolab). Check back, or email for access in the meantime.

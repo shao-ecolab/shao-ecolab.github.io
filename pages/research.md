@@ -41,7 +41,7 @@ Plants trade photosynthate for nutrients acquired by mycorrhizal fungi, and the 
 
 *Relevant publications:* [Shao et al. *JGR: Biogeosciences* (2025)](https://doi.org/10.1029/2025JG009198) · [Shao et al. *Soil Biology and Biochemistry* (2023)](https://doi.org/10.1016/j.soilbio.2023.109073) · [Shao & Sulman, *New Phytologist* (2024)](https://doi.org/10.1111/nph.19746)
 
-*Model:* [Myco-CORPSE](software)
+*Model:* [Myco-CORPSE](models)
 
 :::
 ::::
@@ -76,7 +76,7 @@ Mer Bleue Bog, Ottawa. Photo: [cjuneau](https://commons.wikimedia.org/wiki/File:
 
 *Relevant publications:* [Shao et al. *New Phytologist* (2023)](https://doi.org/10.1111/nph.18555) · [Shao et al. *Science of the Total Environment* (2022)](https://doi.org/10.1016/j.scitotenv.2021.151223) · SPRUCE-MIP multi-model intercomparison (in review)
 
-*Model:* [McGill Wetland Model](software)
+*Model:* [McGill Wetland Model](models)
 
 :::
 ::::
@@ -105,7 +105,7 @@ Enhanced rock weathering spreads crushed silicate rock on farmland to draw down 
 
 *Relevant publications:* Shao et al., *Biological processes govern carbon removal during enhanced rock weathering* (in preparation) · Esquivel et al., *Beyond weathering: combining organic and inorganic soil-based carbon drawdown* (in preparation)
 
-*Model:* [ecosys](software)
+*Model:* [ecosys](models)
 
 :::
 ::::
@@ -131,4 +131,4 @@ Enhanced rock weathering spreads crushed silicate rock on farmland to draw down 
 
 ---
 
-See also: [Publications](publications) · [Talks & Presentations](talks) · [Software & Models](software)
+See also: [Publications](publications) · [Talks & Presentations](talks) · [Models](models)

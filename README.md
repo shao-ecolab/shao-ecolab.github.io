@@ -32,7 +32,7 @@ re-add `cv.pdf` to `.gitignore`. The section below describes the formats that sc
 | `pages/about.md` | Bio, education table, appointments table |
 | `pages/research.md` | Research areas, publications, in-review/in-prep, grants |
 | `pages/join.md` | Recruiting page (not part of the CV PDF) |
-| `pages/software.md` | Models and code |
+| `pages/models.md` | Process-based models the lab develops |
 | `pages/teaching.md` | Courses and mentoring |
 | `pages/talks.md` | Invited talks and conference presentations |
 | `pages/awards.md` | Awards and honors |

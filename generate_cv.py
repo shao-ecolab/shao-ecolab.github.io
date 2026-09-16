@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Generate cv.typ from the website's markdown files using the modern-cv Typst package.
 
-Reads structured data from pages/about.md, pages/research.md, pages/software.md,
+Reads structured data from pages/about.md, pages/research.md, pages/models.md,
 pages/teaching.md, pages/talks.md, pages/awards.md, and pages/services.md, then
 generates a complete Typst CV file using the modern-cv package for styling.
 
@@ -666,7 +666,7 @@ def main():
     about = read_file(pages, "about.md")
     research = read_file(pages, "research.md")
     publications = read_file(pages, "publications.md")
-    software = read_file(pages, "software.md")
+    software = read_file(pages, "models.md")
     teaching = read_file(pages, "teaching.md")
     talks = read_file(pages, "talks.md")
     awards = read_file(pages, "awards.md")

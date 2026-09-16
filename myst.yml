@@ -40,7 +40,7 @@ project:
     - file: pages/people.md
     - file: pages/research.md
     - file: pages/publications.md
-    - file: pages/software.md
+    - file: pages/models.md
     - file: pages/teaching.md
     - file: pages/join.md
     - file: pages/contact.md
