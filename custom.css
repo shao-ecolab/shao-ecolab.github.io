@@ -350,3 +350,10 @@ html.dark .model-fig img {
   line-height: 1.35;
   margin: 0.45rem 0 0;
 }
+
+/* Grid columns: align the top of each column's first element, so an
+   image in one column starts level with the text in the next. MyST
+   gives images a larger default top margin than paragraphs. */
+.myst-grid-item > :first-child {
+  margin-top: 0 !important;
+}
