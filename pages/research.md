@@ -85,7 +85,7 @@ Northern peatlands hold a large share of global soil carbon, and their fate unde
 :columns: 12 12 5 5
 
 ```{image} images/research-erw.webp
-:alt: Schematic of the plant-microbe CO2 pump: photosynthesis fuels microbial respiration, whose CO2 drives silicate weathering, while weathering products are exported, precipitated, or adsorbed alongside soil organic carbon accumulation
+:alt: A tractor spreading powdered agricultural lime across a field, throwing up a broad cloud of mineral dust
 :width: 100%
 :class: research-fig
 ```

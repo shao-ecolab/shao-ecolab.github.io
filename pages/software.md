@@ -25,6 +25,11 @@ A process-based model of peatland carbon and nutrient cycling. Our contributions
 
 :::{card} ecosys
 A comprehensive process-based ecosystem model. We extended it with mineral dissolution kinetics to simulate enhanced rock weathering and biota–mineral interactions in croplands.
+
+```{image} images/ecosys-erw-schematic.webp
+:alt: Schematic of the plant-microbe CO2 pump - photosynthesis fuels microbial respiration, whose CO2 drives silicate weathering, while the products are exported, precipitated or adsorbed alongside soil organic carbon accumulation
+:width: 100%
+```
 +++
 Manuscript in preparation
 :::
