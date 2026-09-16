@@ -54,6 +54,8 @@ Nutrient cycling and the shrub–ericoid mycorrhizal exchange. From [Shao et al.
 
 ::::
 
+*Model website:* [mwmpeat.weebly.com](https://mwmpeat.weebly.com)
+
 *Applied in:* peatland carbon and nutrient cycling — see [Research](research)
 
 ---
@@ -143,6 +145,8 @@ Coupled weathering, nutrient and plant processes as implemented in ecosys
 :::
 
 ::::
+
+*Source code:* [github.com/jinyun1tang/ECOSYS](https://github.com/jinyun1tang/ECOSYS)
 
 *Applied in:* enhanced rock weathering and soil carbon removal — see [Research](research)
 
