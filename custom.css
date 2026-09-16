@@ -176,3 +176,33 @@ img.rounded,
 .myst-theme-button {
   display: none !important;
 }
+
+/* ---------------------------------------------------------------
+   Match the content width to the top bar so "Shao Lab" and the search
+   icon line up with the left and right edges of the body text.
+   --------------------------------------------------------------- */
+@media (min-width: 1280px) {
+  /* Body content spans the full page column instead of the narrow
+     body column, which is inset asymmetrically to leave a TOC rail. */
+  main.article-grid > article > *:not(.col-screen):not(.col-page):not(.col-page-right) {
+    grid-column: page !important;
+  }
+  /* The logo carries a 28px left margin that pushed it past the text. */
+  .myst-home-link {
+    margin-left: 0 !important;
+  }
+}
+
+/* Portrait is sized as a percentage of its column, so cap it now that
+   the content column is full page width. */
+img.rounded,
+.rounded img {
+  max-width: 260px;
+}
+
+/* The per-page CONTENTS outline lived in the right margin that the
+   full-width content column now occupies, so it overlapped the text.
+   Hidden: navigation is the top bar, and the pages are short. */
+.myst-outline {
+  display: none !important;
+}
