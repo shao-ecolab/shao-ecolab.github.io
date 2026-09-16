@@ -36,13 +36,9 @@ Zhang, C., Ke, W., Hicks Pries, C., Montaño-López, F., Ridgeway, J., Wang, L.,
 
 :::
 
-:::{dropdown} 2022
+:::{dropdown} 2015–2022
 
 **Shao, S.**, Wu, J., He, H., & Roulet, N. (2022). Integrating McGill Wetland Model (MWM) with peat cohort tracking and microbial controls. *Science of the Total Environment*, 806, 151223. [https://doi.org/10.1016/j.scitotenv.2021.151223](https://doi.org/10.1016/j.scitotenv.2021.151223)
-
-:::
-
-:::{dropdown} 2015–2018
 
 **Shao, S.**, Zhang, J., Zhou, L., & Qiao, Y. (2018). Impacts of aerosol direct radiative effect on carbon cycle in global terrestrial ecosystem. *Journal of Natural Resources*, 33(1), 37–51. [https://doi.org/10.11849/zrzyxb.20161109](https://doi.org/10.11849/zrzyxb.20161109)
 

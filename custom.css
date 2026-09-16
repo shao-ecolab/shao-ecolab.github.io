@@ -214,9 +214,7 @@ img.rounded,
     margin-right: auto !important;
   }
 
-  /* The auto-generated bibliography is a col-screen wrapper whose inner
-     content otherwise stays in the old narrow body column. */
-  .myst-bibliography > *,
+  /* The footer otherwise stays in the old narrow body column. */
   footer.article > * {
     grid-column: page !important;
     width: 100% !important;
@@ -300,4 +298,11 @@ article:has(img.home-hero-bg) .myst-fm-block-header {
   main.article-grid > article:has(img.home-hero-bg) > img.home-hero-bg.home-hero-bg { height: 240px; }
   main.article-grid > article:has(img.home-hero-bg) > .myst-fm-block.myst-fm-block { min-height: 240px; }
   article:has(img.home-hero-bg) .myst-fm-block h1 { font-size: 2rem; }
+}
+
+/* MyST turns every doi.org link into a citation and appends an auto-generated
+   "References" list. It duplicates the publication list above it, and renders
+   the Chinese-language titles and some author names incorrectly. */
+.myst-bibliography {
+  display: none !important;
 }
