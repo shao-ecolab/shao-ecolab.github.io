@@ -66,9 +66,6 @@ site:
     style: custom.css
     # analytics_google: G-XXXXXXXXXX
     folders: true
-  actions:
-    - title: RSS
-      url: https://shao-ecolab.github.io/rss.xml
   template: book-theme
   parts:
     primary_sidebar_footer: ''
