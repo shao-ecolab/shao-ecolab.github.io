@@ -8,9 +8,21 @@ Built with [MyST Markdown](https://mystmd.org) from
 
 ## How it works
 
-Content lives in Markdown. On every push to `main`, GitHub Actions builds the HTML site,
-generates `cv.pdf` from the same Markdown source via [Typst](https://typst.app), and deploys
-both to GitHub Pages. **The website and the CV PDF never drift apart** — edit the Markdown once.
+Content lives in Markdown. On every push to `main`, GitHub Actions builds the HTML site and
+deploys it to GitHub Pages.
+
+### The CV
+
+`cv.pdf` at the repo root is a **committed file**, exported from Word, and is served verbatim
+at <https://shao-ecolab.github.io/cv.pdf>. To update the CV, replace that file and push.
+
+**It is not generated from the Markdown any more**, so the site pages and the PDF can drift
+apart — update both when something changes.
+
+`generate_cv.py` is kept in the repo but is no longer wired into the build. To go back to
+generating the PDF from the page content, restore the "Setup Typst", "Download fonts",
+"Generate CV Typst source" and "Compile CV PDF" steps in `.github/workflows/deploy.yml`, and
+re-add `cv.pdf` to `.gitignore`. The section below describes the formats that script expects.
 
 ## Editing
 
@@ -28,7 +40,7 @@ both to GitHub Pages. **The website and the CV PDF never drift apart** — edit 
 | `pages/news.md` | News archive |
 | `blog/*.md` | Blog posts (add files here; they appear automatically) |
 
-### Formats the CV generator depends on
+### Formats the CV generator depends on (only if you re-enable generation)
 
 `generate_cv.py` parses specific headings and structures. If a section silently disappears from
 `cv.pdf`, it is almost always one of these:

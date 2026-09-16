@@ -43,27 +43,6 @@ jobs:
       - name: Install MyST Markdown
         run: npm install -g mystmd
 
-      - name: Setup Typst
-        uses: typst-community/setup-typst@v5
-
-      - name: Download fonts
-        run: |
-          mkdir -p fonts
-          # Source Sans Pro (body font)
-          curl -sL "https://github.com/adobe-fonts/source-sans-pro/releases/download/3.006R/source-sans-pro-3.006R.zip" -o source-sans-pro.zip
-          unzip -o source-sans-pro.zip -d /tmp/ssp
-          cp /tmp/ssp/source-sans-pro-3.006R/OTF/*.otf fonts/
-          # Font Awesome 6 (icons)
-          curl -sL "https://use.fontawesome.com/releases/v6.7.2/fontawesome-free-6.7.2-desktop.zip" -o fa.zip
-          unzip -o fa.zip -d /tmp/fa
-          cp /tmp/fa/fontawesome-free-6.7.2-desktop/otfs/*.otf fonts/
-
-      - name: Generate CV Typst source
-        run: python generate_cv.py
-
-      - name: Compile CV PDF
-        run: typst compile cv.typ cv.pdf --font-path ./fonts --ignore-system-fonts
-
       - name: Build HTML Assets
         # Served at the org root (shao-ecolab.github.io), so no BASE_URL prefix.
         # If this ever moves to a project repo, set BASE_URL: /${{ github.event.repository.name }}

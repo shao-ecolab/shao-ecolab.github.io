@@ -111,7 +111,6 @@ book-clean/
 
 # CV generation
 cv.typ
-cv.pdf
 fonts/
 
 # RSS/Atom feeds
