@@ -14,7 +14,7 @@ keywords:
 ::::{grid} 2 2 2 2
 
 :::{grid-item}
-:columns: 4 4 3 3
+:columns: 5 5 4 4
 
 ```{image} images/siya-shao.jpg
 :alt: Portrait of Siya Shao
@@ -25,7 +25,7 @@ keywords:
 :::
 
 :::{grid-item}
-:columns: 8 8 9 9
+:columns: 7 7 8 8
 
 ### Siya Shao
 

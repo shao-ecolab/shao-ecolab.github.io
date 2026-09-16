@@ -230,7 +230,7 @@ img.rounded,
    the content column is full page width. */
 img.rounded,
 .rounded img {
-  max-width: 260px;
+  max-width: 360px;
 }
 
 /* The per-page CONTENTS outline lived in the right margin that the
