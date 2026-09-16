@@ -19,7 +19,7 @@ keywords:
 ```{image} images/siya-shao.jpg
 :alt: Portrait of Siya Shao
 :width: 100%
-:class: rounded
+:class: rounded portrait-fill
 ```
 
 :::

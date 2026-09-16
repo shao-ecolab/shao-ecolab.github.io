@@ -357,3 +357,37 @@ html.dark .model-fig img {
 .myst-grid-item > :first-child {
   margin-top: 0 !important;
 }
+.myst-grid-item > :last-child {
+  margin-bottom: 0 !important;
+}
+
+/* People page portrait.
+   MyST puts the directive class on a <picture> wrapper, not the <img>.
+   Left edge flush with the column (MyST adds an inline margin:auto that
+   centres it). On wide screens the picture is taken out of flow and
+   stretched, so the text - not the photo - sets the row height and the
+   two columns end level. */
+.portrait-fill img {
+  margin-left: 0 !important;
+  margin-right: auto !important;
+  max-width: none !important;
+  width: 100% !important;
+}
+@media (min-width: 768px) {
+  .myst-grid-item:has(> .portrait-fill) {
+    position: relative;
+    min-height: 320px;
+  }
+  .portrait-fill {
+    position: absolute;
+    inset: 0;
+    display: block;
+    margin: 0 !important;
+  }
+  .portrait-fill img {
+    height: 100% !important;
+    object-fit: cover;
+    object-position: center 22%;
+    margin: 0 !important;
+  }
+}
