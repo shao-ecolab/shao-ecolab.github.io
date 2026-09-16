@@ -399,3 +399,13 @@ img.portrait-fill,
     margin: 0 !important;
   }
 }
+
+/* Frontmatter affiliation: flush with the right edge of the content,
+   matching the main text block. Its column already reaches that edge;
+   the text inside was left-aligned and so ended wherever it wrapped. */
+@media (min-width: 640px) {
+  .myst-fm-affiliation-col,
+  .myst-fm-affiliation-item {
+    text-align: right;
+  }
+}
