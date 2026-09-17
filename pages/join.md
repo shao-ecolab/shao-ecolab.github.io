@@ -44,17 +44,17 @@ Backgrounds that work well here: microbiology, ecology, soil science, environmen
 
 ## Graduate Students
 
-**Admission is through the department, not directly into this lab.** UTK Microbiology uses a rotation system: you rotate through two or three labs in your first semester, then settle into one by mutual agreement. I am glad to host rotations.
+**Admission is through the department rather than directly into a lab.** UTK Microbiology uses a rotation system: you rotate through two or three labs in your first semester, then settle into one by mutual agreement. I would be delighted to host you for a rotation.
 
-Apply through the [Department of Microbiology graduate program](https://micro.utk.edu/graduate/). You are welcome to email before applying so we can talk about fit.
+Apply through the [Department of Microbiology graduate program](https://micro.utk.edu/graduate/). Do feel free to email before applying — I am always happy to talk about whether the fit is right, and it is no trouble at all.
 
 **In your email, include:**
 
-1. A few sentences on what question you want to work on, and why it interests you. Specific beats broad — it is fine if it changes later.
-2. What quantitative or computational experience you have, honestly stated.
+1. A few sentences on what question interests you and why. Specific beats broad, and it is completely fine if it changes later.
+2. Whatever quantitative or computational experience you have — no need to oversell it.
 3. Your CV.
 
-**Please do not** send a generic template email. A short, specific message that shows you looked at what we actually do gets a real reply.
+A short, specific note about what interests you will always get a real reply — those are much more enjoyable to read than a template.
 
 Email: [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Prospective graduate student"**.
 
@@ -70,21 +70,17 @@ Email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Undergraduate
 
 ## Postdoctoral Researchers
 
-**Funded postdoctoral positions are open.** I expect to recruit into mycorrhizal controls on forest and peatland carbon and nitrogen cycling, biological controls on enhanced rock weathering, or machine-learning surrogates for long-term ecosystem simulation. The specific question would be developed together rather than assigned. Start dates are flexible.
+**Funded postdoctoral positions are open, and I would be glad to hear from you.** Projects I would enjoy developing together include mycorrhizal controls on forest and peatland carbon and nitrogen cycling; biological controls on enhanced rock weathering, or plant–microbe–mineral interactions underpinning other nature-based solutions; simulating management practices in agricultural systems; incorporating microbial traits into ecosystem models; and AI-enhanced ecosystem process modeling. These are directions I am interested in rather than fixed assignments — the specific question would be shaped around your interests and strengths. Start dates are flexible, and formal recruitment details will be announced soon.
 
-This is an early call for expressions of interest; formal postings will follow through the university's recruitment channels.
+**To get in touch,** email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Postdoc application"** and include:
 
-Useful background: a process-based ecosystem, soil or land-surface model; Fortran, Python or R; soil biogeochemistry; microbial ecology; or substantial scientific computing. People from engineering, applied mathematics or computer science are encouraged to get in touch — what you can build matters more than the label on your degree.
-
-**To apply,** email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Postdoc application"** and include:
-
-1. A cover letter — what you have worked on, and what you would want to work on here.
+1. A short note on what you have worked on, and what you would like to work on here.
 2. Your CV.
 3. Names and contact details for two or three references.
 
-Review is ongoing until the positions are filled.
+Review is ongoing until the positions are filled, and I try to reply to everyone.
 
-We are also glad to co-develop fellowship applications (for example the NSF Postdoctoral Research Fellowship in Biology, or DOE programs) with strong candidates who would rather come with their own funding.
+If you would rather come with your own funding, I would be very happy to co-develop a fellowship application with you — the NSF Postdoctoral Research Fellowship in Biology or a DOE program, for example.
 
 ---
 
