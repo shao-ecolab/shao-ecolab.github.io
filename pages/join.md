@@ -81,9 +81,3 @@ Email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Undergraduate
 Review is ongoing until the positions are filled, and I try to reply to everyone.
 
 If you would rather come with your own funding, I would be very happy to co-develop a fellowship application with you — the NSF Postdoctoral Research Fellowship in Biology or a DOE program, for example.
-
----
-
-## A Note on Fit
-
-Research groups differ more in day-to-day working style than in subject matter. If you are deciding whether to write, it is reasonable to ask directly about expectations around working hours, publication, funding, and mentoring. We would rather have that conversation early than late.
