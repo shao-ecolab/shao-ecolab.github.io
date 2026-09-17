@@ -425,3 +425,11 @@ img.portrait-fill,
   max-width: none !important;
   padding: 0 !important;
 }
+
+/* Hide the theme's previous/next page navigation at the foot of each
+   page. The top bar already carries the whole site, and these two large
+   blocks added ~118px of chrome below every page. The CV / Scholar /
+   ORCID / LinkedIn / Email row in myst.yml's footer part is kept. */
+.myst-footer-links {
+  display: none !important;
+}
