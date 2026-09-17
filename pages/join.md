@@ -32,6 +32,8 @@ Current directions include mycorrhizal controls on forest and peatland carbon an
 
 ## Who We Look For
 
+**The list below is deliberately broad, and I would rather say so than pretend otherwise.** The lab is new, and I would rather find the right person and build a project around them than screen for an exact CV.
+
 You do **not** need to arrive already knowing how to model. Most people who join a modeling lab learn the modeling here. What matters more:
 
 - **Curiosity about mechanism.** You want to know *why* a system behaves the way it does, not just what the output looks like.
@@ -71,9 +73,11 @@ Email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Undergraduate
 
 ## Postdoctoral Researchers
 
-**Funded postdoctoral positions are open.** Start dates are flexible.
+**Funded postdoctoral positions are open, and I will be straightforward about where things stand.** The lab is new, so the projects are not yet fixed. I expect to recruit into mycorrhizal controls on forest and peatland carbon and nitrogen cycling, biological controls on enhanced rock weathering, or machine-learning surrogates for long-term ecosystem simulation — but the exact question would be shaped with the person who takes it rather than handed to them. Start dates are flexible.
 
-We are looking for people who want to build ecosystem models and test them against real data. Strong candidates might come from ecosystem or soil biogeochemistry, microbial ecology, land-surface or Earth system modeling, biogeochemical modeling, or scientific computing. Experience with a process-based model, or with substantial scientific programming, matters more than a specific disciplinary label.
+This is an early call for expressions of interest; formal postings will follow through the university's recruitment channels.
+
+Useful background: a process-based ecosystem, soil or land-surface model; Fortran, Python or R; soil biogeochemistry; microbial ecology; or substantial scientific computing. People from engineering, applied mathematics or computer science are encouraged to get in touch — what you can build matters more than the label on your degree.
 
 **To apply,** email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Postdoc application"** and include:
 
