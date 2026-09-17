@@ -54,7 +54,7 @@ Apply through the [Department of Microbiology graduate program](https://micro.ut
 2. Whatever quantitative or computational experience you have — no need to oversell it.
 3. Your CV.
 
-A short, specific note about what interests you will always get a real reply — those are much more enjoyable to read than a template.
+A short, specific note is always welcome.
 
 Email: [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Prospective graduate student"**.
 
