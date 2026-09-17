@@ -70,7 +70,7 @@ Email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Undergraduate
 
 ## Postdoctoral Researchers
 
-**Funded postdoctoral positions are open, and I would be glad to hear from you.** Projects I would enjoy developing together include mycorrhizal controls on forest and peatland carbon and nitrogen cycling; biological controls on enhanced rock weathering, or plant–microbe–mineral interactions underpinning other nature-based solutions; simulating management practices in agricultural systems; incorporating microbial traits into ecosystem models; and AI-enhanced ecosystem process modeling. These are directions I am interested in rather than fixed assignments — the specific question would be shaped around your interests and strengths. Start dates are flexible, and formal recruitment details will be announced soon.
+**Funded postdoctoral positions are open, and I would be glad to hear from you.** Directions I am interested in include mycorrhizal controls on forest and peatland carbon–nitrogen cycling, plant–microbe–mineral interactions in enhanced rock weathering and other nature-based solutions, agricultural management practices, microbial traits in ecosystem models, and AI-enhanced ecosystem modeling. The specific question would be shaped around your interests rather than assigned. Start dates are flexible, and formal recruitment details will be announced soon.
 
 **To get in touch,** email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Postdoc application"** and include:
 
