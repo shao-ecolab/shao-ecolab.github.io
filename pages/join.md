@@ -32,14 +32,11 @@ Current directions include mycorrhizal controls on forest and peatland carbon an
 
 ## Who We Look For
 
-**The list below is deliberately broad, and I would rather say so than pretend otherwise.** The lab is new, and I would rather find the right person and build a project around them than screen for an exact CV.
+**The scope below is deliberately broad.** Projects here sit at the intersection of soil microbial ecology, biogeochemistry and process-based modeling, and can be weighted toward any of the three depending on your background.
 
-You do **not** need to arrive already knowing how to model. Most people who join a modeling lab learn the modeling here. What matters more:
+Current directions: mycorrhizal carbon and nitrogen economies in forests and peatlands; biological controls on enhanced rock weathering; representing microbial traits in ecosystem models; and machine-learning surrogates for long-term ecosystem simulation. I would rather build a project around the right person than screen for an exact CV.
 
-- **Curiosity about mechanism.** You want to know *why* a system behaves the way it does, not just what the output looks like.
-- **Comfort being wrong in public.** Modeling is mostly finding out your assumption was wrong and figuring out which assumption it was.
-- **Some quantitative footing.** Any programming language, any statistics course, any experience with the command line. Willingness to learn matters more than what you already know.
-- **Care about the biology.** Models of microbes are only as good as the microbiology in them.
+You do not need to arrive already knowing how to model — most people who join a modeling lab learn that here. What matters more is curiosity about mechanism, some quantitative footing in any language, and care about the biology: models of microbes are only as good as the microbiology in them.
 
 Backgrounds that work well here: microbiology, ecology, soil science, environmental science, geography, atmospheric science, computer science, applied math. People coming from the field or bench side are especially welcome — models need people who know what the data actually mean.
 
@@ -73,7 +70,7 @@ Email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Undergraduate
 
 ## Postdoctoral Researchers
 
-**Funded postdoctoral positions are open, and I will be straightforward about where things stand.** The lab is new, so the projects are not yet fixed. I expect to recruit into mycorrhizal controls on forest and peatland carbon and nitrogen cycling, biological controls on enhanced rock weathering, or machine-learning surrogates for long-term ecosystem simulation — but the exact question would be shaped with the person who takes it rather than handed to them. Start dates are flexible.
+**Funded postdoctoral positions are open.** I expect to recruit into mycorrhizal controls on forest and peatland carbon and nitrogen cycling, biological controls on enhanced rock weathering, or machine-learning surrogates for long-term ecosystem simulation. The specific question would be developed together rather than assigned. Start dates are flexible.
 
 This is an early call for expressions of interest; formal postings will follow through the university's recruitment channels.
 
