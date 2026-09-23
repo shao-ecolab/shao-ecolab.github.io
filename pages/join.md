@@ -13,28 +13,14 @@ keywords:
 
 The Shao EcoLab is new at the University of Tennessee, Knoxville, and we are building the group now. That means early members help shape the lab's direction, tools, and culture rather than inheriting them.
 
+You do not need to arrive already knowing how to model. Most people who join a modeling lab learn that here. What matters more is curiosity about mechanism, some experience writing code in any language, and care about the ecology. Backgrounds that work well here: microbiology, ecology, soil science, environmental science, geography, atmospheric science, computer science, applied math. People coming from the field or bench side are especially welcome, because models need people who know what the data actually mean.
+
 :::{admonition} Currently recruiting
 :class: tip
 **Postdoctoral researchers** for funded positions available now.
 **Graduate students** for Fall 2027 entry through the [Department of Microbiology graduate program](https://micro.utk.edu/graduate/).
 **Undergraduate researchers** on a rolling basis.
 :::
-
----
-
-## What We Do
-
-We build process-based ecosystem models in which microbes are active players, and we test them against real data. Projects in the lab typically combine three things: a biological mechanism someone measured in the field or laboratory, a model that does not yet represent it, and a prediction that changes once it does.
-
-Current directions include mycorrhizal controls on forest and peatland carbon and nitrogen cycling, biological controls on enhanced rock weathering, fungal trait representation in soil biogeochemical models, and machine-learning surrogates for long-term ecosystem simulation.
-
----
-
-## Who We Look For
-
-**The scope here is deliberately broad.** Current directions: mycorrhizal carbon and nitrogen economies in forests and peatlands; biological controls on enhanced rock weathering; representing microbial traits in ecosystem models; and machine-learning surrogates for long-term ecosystem simulation. These differ a good deal in emphasis, and I would rather build a project around the right person than screen for an exact CV.
-
-You do not need to arrive already knowing how to model. Most people who join a modeling lab learn that here. What matters more is curiosity about mechanism, some experience writing code in any language, and care about the ecology. Backgrounds that work well here: microbiology, ecology, soil science, environmental science, geography, atmospheric science, computer science, applied math. People coming from the field or bench side are especially welcome, because models need people who know what the data actually mean.
 
 ---
 
