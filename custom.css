@@ -286,6 +286,17 @@ main.article-grid > article > .home-hero-bg.home-hero-bg.home-hero-bg {
   }
 }
 
+/* ---- Nav logo ---------------------------------------------------------
+   The theme wraps the logo in a div with 4px of horizontal padding, which
+   pushes the mark off the 1170px column the rest of the page aligns to. */
+.myst-home-link-logo {
+  padding-left: 0 !important;
+}
+.myst-home-link-logo img {
+  height: 40px !important;
+  width: auto !important;
+}
+
 /* MyST turns every doi.org link into a citation and appends an auto-generated
    "References" list. It duplicates the publication list above it, and renders
    the Chinese-language titles and some author names incorrectly. */

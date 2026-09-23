@@ -62,6 +62,7 @@ project:
 site:
   title: Siya Shao | Shao EcoLab
   options:
+    logo: pages/images/logo.png
     logo_text: Shao EcoLab
     favicon: fav.ico
     style: custom.css
