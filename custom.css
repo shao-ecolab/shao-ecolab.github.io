@@ -260,7 +260,7 @@ main.article-grid > article:has(.home-hero-bg) > .myst-fm-block.myst-fm-block {
 main.article-grid > article > img.home-hero-bg.home-hero-bg.home-hero-bg,
 main.article-grid > article > .home-hero-bg.home-hero-bg.home-hero-bg {
   display: block;
-  width: min(100%, calc(76vh * 1.777)) !important;
+  width: min(100%, calc(62vh * 2.138)) !important;
   height: auto !important;
   margin: 0 auto 1rem !important;
   border-radius: 0 !important;

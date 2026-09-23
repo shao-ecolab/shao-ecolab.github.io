@@ -6,7 +6,7 @@ thumbnail: pages/images/lab-banner-social.jpg
 ---
 
 ```{image} pages/images/lab-banner.webp
-:alt: Shao EcoLAB banner — a cutaway landscape running from a peatland pool through conifer and broadleaf forest and grassland to a row-crop field, with the soil below opened up to show roots, mycorrhizal hyphae, soil microbes and weathering mineral grains, arrows tracing carbon from plants into the soil and nutrients back to the plants, an inset on microbe–mineral interactions, and CO2 rising toward a label reading climate mitigation and resilient ecosystems.
+:alt: Shao EcoLAB banner — a cutaway landscape running from a peatland pool through conifer and broadleaf forest and grassland to a row-crop field, with the soil below opened up in labelled bands for plants, soil microbes and minerals, showing roots, mycorrhizal hyphae, free-living microbes and weathering mineral grains, orange arrows carrying carbon from plants down into the soil and blue arrows carrying nutrients back up, an inset on microbe–mineral interactions, and CO2 drawn down from the sky under a label reading climate mitigation and resilient ecosystems.
 :class: home-hero-bg
 ```
 
