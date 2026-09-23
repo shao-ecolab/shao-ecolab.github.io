@@ -311,6 +311,16 @@ img.contact-logo, .contact-logo img {
   img.contact-logo, .contact-logo img { max-width: 220px; margin-top: 1.5rem !important; }
 }
 
+/* The Contact page states the department and university in the body, so the
+   frontmatter affiliation line above the logo only repeats them. Scoped by
+   the logo, which no other page carries. Both selector forms: the class
+   lands on the <img> in production builds and on a <picture> in the dev
+   server. */
+article:has(img.contact-logo) .myst-fm-affiliation-col,
+article:has(.contact-logo) .myst-fm-affiliation-col {
+  display: none !important;
+}
+
 /* MyST turns every doi.org link into a citation and appends an auto-generated
    "References" list. It duplicates the publication list above it, and renders
    the Chinese-language titles and some author names incorrectly. */
