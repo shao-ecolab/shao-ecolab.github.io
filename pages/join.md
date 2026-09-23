@@ -1,5 +1,5 @@
 ---
-title: Join the Lab
+title: Join Us
 description: Graduate, undergraduate, and postdoctoral opportunities in the Shao EcoLab at the University of Tennessee, Knoxville.
 keywords:
   - Join
@@ -9,7 +9,7 @@ keywords:
   - Recruiting
 ---
 
-# Join the Lab
+# Join Us
 
 The Shao EcoLab is new at the University of Tennessee, Knoxville, and we are building the group now. That means early members help shape the lab's direction, tools, and culture rather than inheriting them.
 

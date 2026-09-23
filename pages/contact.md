@@ -53,7 +53,7 @@ Knoxville, TN 37996
 
 :::{admonition} Prospective students
 :class: tip
-If you are writing about graduate or undergraduate research positions, please read [Join the Lab](join) first — it explains what to include in your email.
+If you are writing about graduate or undergraduate research positions, please read [Join Us](join) first — it explains what to include in your email.
 :::
 
 ---

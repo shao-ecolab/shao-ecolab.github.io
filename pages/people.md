@@ -55,19 +55,19 @@ Siya builds process-based ecosystem models in which microbes are active players,
 
 ## Graduate Students
 
-*The lab is new and building its group.* We are recruiting graduate students for Fall 2027 entry — see [Join the Lab](join).
+*The lab is new and building its group.* We are recruiting graduate students for Fall 2027 entry — see [Join Us](join).
 
 ---
 
 ## Postdoctoral Researchers
 
-**Funded positions are currently open.** See [Join the Lab](join) for what we look for and how to apply.
+**Funded positions are currently open.** See [Join Us](join) for how to get in touch.
 
 ---
 
 ## Undergraduate Researchers
 
-We take undergraduate researchers on a rolling basis, and previous undergraduate projects in the group have led to co-authored publications. See [Join the Lab](join).
+We take undergraduate researchers on a rolling basis, and previous undergraduate projects in the group have led to co-authored publications. See [Join Us](join).
 
 ---
 
