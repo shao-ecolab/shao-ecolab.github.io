@@ -1,6 +1,6 @@
 ---
 title: Models
-description: Process-based ecosystem models developed and used by the Shao Lab.
+description: Process-based ecosystem models developed and used by the Shao EcoLab.
 keywords:
   - Software
   - Models

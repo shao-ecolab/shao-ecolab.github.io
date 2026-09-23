@@ -1,6 +1,6 @@
 ---
 title: Research
-description: Research areas, themes and grants of the Shao Lab.
+description: Research areas, themes and grants of the Shao EcoLab.
 keywords:
   - Research
   - Ecosystem Modeling

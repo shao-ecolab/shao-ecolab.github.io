@@ -1,6 +1,6 @@
 ---
 title: People
-description: Members of the Shao Lab at the University of Tennessee, Knoxville.
+description: Members of the Shao EcoLab at the University of Tennessee, Knoxville.
 keywords:
   - People
   - Lab Members

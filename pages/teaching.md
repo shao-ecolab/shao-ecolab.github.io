@@ -9,7 +9,7 @@ keywords:
 
 # Teaching
 
-Teaching in the Shao Lab centers on making quantitative and computational approaches accessible to students trained in biology, and on giving modelers enough field and laboratory grounding to build models worth believing.
+Teaching in the Shao EcoLab centers on making quantitative and computational approaches accessible to students trained in biology, and on giving modelers enough field and laboratory grounding to build models worth believing.
 
 ## Courses at the University of Tennessee, Knoxville
 

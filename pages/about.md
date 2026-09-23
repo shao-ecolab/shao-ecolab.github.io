@@ -10,7 +10,7 @@ keywords:
 
 # About
 
-Siya Shao is an Assistant Professor in the Department of Microbiology at the University of Tennessee, Knoxville. The Shao Lab develops process-based ecosystem models in which microbes are active players rather than hidden inside the equations, and combines them with experimental and observational data to address questions experiments alone cannot resolve.
+Siya Shao is an Assistant Professor in the Department of Microbiology at the University of Tennessee, Knoxville. The Shao EcoLab develops process-based ecosystem models in which microbes are active players rather than hidden inside the equations, and combines them with experimental and observational data to address questions experiments alone cannot resolve.
 
 His research spans three connected threads: how mycorrhizal fungi mediate the carbon and nitrogen economies of forests and peatlands; how microbial traits measured in the laboratory can be represented faithfully in ecosystem-scale models; and how much carbon removal is actually realized when soil-based climate solutions such as enhanced rock weathering meet a living, biologically active soil. Across all three, the through-line is the same: biology is not a passive modifier of geochemistry, and models that treat it as one get the wrong answer.
 

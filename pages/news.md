@@ -1,6 +1,6 @@
 ---
 title: News
-description: Latest news and updates from the Shao Lab.
+description: Latest news and updates from the Shao EcoLab.
 keywords:
   - News
   - Updates
@@ -10,7 +10,7 @@ keywords:
 
 ## 2026
 
-- **August 2026** — Joined the [Department of Microbiology](https://micro.utk.edu) at the University of Tennessee, Knoxville as an Assistant Professor. The Shao Lab is open and [recruiting](join) — funded postdoctoral positions, graduate students for Fall 2027, and undergraduate researchers.
+- **August 2026** — Joined the [Department of Microbiology](https://micro.utk.edu) at the University of Tennessee, Knoxville as an Assistant Professor. The Shao EcoLab is open and [recruiting](join) — funded postdoctoral positions, graduate students for Fall 2027, and undergraduate researchers.
 - **2026** — Co-PI on a Department of Energy Genesis Mission award ($585K, Phase I): "Transforming subsurface prediction with an autonomous, multi-agent AI workflow for multi-scale coupled bio-hydrogeochemical modeling."
 
 ## 2025
