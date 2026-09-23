@@ -9,16 +9,35 @@ keywords:
 
 # Contact
 
-**Siya Shao, PhD**
-Assistant Professor
-[Department of Microbiology](https://micro.utk.edu)
+::::{grid} 1 1 2 2
+
+:::{grid-item}
+:columns: 12 12 7 7
+
+**Siya Shao, PhD**\
+Assistant Professor\
+[Department of Microbiology](https://micro.utk.edu)\
 University of Tennessee, Knoxville
 
-301 Ken and Blaire Mossman Building
-1311 Cumberland Avenue
+301 Ken and Blaire Mossman Building\
+1311 Cumberland Avenue\
 Knoxville, TN 37996
 
 **Email:** [sshao3@utk.edu](mailto:sshao3@utk.edu)
+
+:::
+
+:::{grid-item}
+:columns: 12 12 5 5
+
+```{image} images/logo-large.png
+:alt: The Shao EcoLab logo, a seedling whose stem and root curve into the letter S, with leaves above ground, roots reaching into soil that holds a bacterium and mineral grains, and a monitor showing a modelled curve fitted through data points
+:class: contact-logo
+```
+
+:::
+
+::::
 
 ---
 

@@ -297,6 +297,20 @@ main.article-grid > article > .home-hero-bg.home-hero-bg.home-hero-bg {
   width: auto !important;
 }
 
+/* ---- Contact page logo ------------------------------------------------
+   The page is short and text-only, so the right half of the column is
+   empty; the logo fills it without competing with anything. */
+img.contact-logo, .contact-logo img {
+  display: block;
+  width: 100% !important;
+  max-width: 300px;
+  height: auto !important;
+  margin: 0 auto !important;
+}
+@media (max-width: 767px) {
+  img.contact-logo, .contact-logo img { max-width: 220px; margin-top: 1.5rem !important; }
+}
+
 /* MyST turns every doi.org link into a citation and appends an auto-generated
    "References" list. It duplicates the publication list above it, and renders
    the Chinese-language titles and some author names incorrectly. */
