@@ -34,7 +34,7 @@ Current directions include mycorrhizal controls on forest and peatland carbon an
 
 **The scope here is deliberately broad.** Current directions: mycorrhizal carbon and nitrogen economies in forests and peatlands; biological controls on enhanced rock weathering; representing microbial traits in ecosystem models; and machine-learning surrogates for long-term ecosystem simulation. These differ a good deal in emphasis, and I would rather build a project around the right person than screen for an exact CV.
 
-You do not need to arrive already knowing how to model. Most people who join a modeling lab learn that here. What matters more is curiosity about mechanism, some quantitative footing in any language you already speak, and care about the ecology. People find their way here from microbiology, ecology, soil science, environmental science, geography, atmospheric science, computer science and applied math, and those who turn up with mud on their boots or a pipette still in hand are especially welcome, because models need people who know what the data actually mean.
+You do not need to arrive already knowing how to model. Most people who join a modeling lab learn that here. What matters more is curiosity about mechanism, some experience writing code in any language, and care about the ecology. People find their way here from microbiology, ecology, soil science, environmental science, geography, atmospheric science, computer science and applied math, and those who turn up with mud on their boots or a pipette still in hand are especially welcome, because models need people who know what the data actually mean.
 
 ---
 
