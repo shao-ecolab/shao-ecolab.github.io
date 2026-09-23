@@ -55,7 +55,7 @@ Siya builds process-based ecosystem models in which microbes are active players,
 
 ## Graduate Students
 
-*The lab is new and building its group.* We are recruiting graduate students for Fall 2027 entry — see [Join Us](join).
+*The lab is new and building its group.* We are recruiting graduate students for Fall 2027 entry. See [Join Us](join).
 
 ---
 
@@ -79,4 +79,4 @@ Siya serves on the PhD supervisory committees of **Yueyue Xing** and **Celestine
 
 ## Alumni
 
-- **Zachary Shortt** — undergraduate researcher, Dartmouth College (2022–2024). Now a co-author on [Shao et al. 2025, *JGR: Biogeosciences*](https://doi.org/10.1029/2025JG009198).
+- **Zachary Shortt**, undergraduate researcher, Dartmouth College (2022–2024). Now a co-author on [Shao et al. 2025, *JGR: Biogeosciences*](https://doi.org/10.1029/2025JG009198).

@@ -23,7 +23,7 @@ Teaching in the Shao EcoLab centers on making quantitative and computational app
 
 | Course | Title | Semesters |
 |--------|-------|-----------|
-| BIOL 26 | Global Change Biology — guest lecture, "Introduction to modeling environmental systems" | 2023 |
+| BIOL 26 | Global Change Biology (guest lecture, "Introduction to modeling environmental systems") | 2023 |
 
 ---
 
@@ -31,11 +31,11 @@ Teaching in the Shao EcoLab centers on making quantitative and computational app
 
 | Course | Title | Semesters |
 |--------|-------|-----------|
-| GEOG 501 | Modelling Environmental Systems — teaching assistant and guest lecturer | 2015--2020 |
-| GEOG 407 | Issues in Geography — teaching assistant and guest lecturer | 2015--2020 |
-| GEOG 203 | Environmental Systems — teaching assistant | 2015--2020 |
-| GEOG 205 | Global Change: Past, Present and Future — teaching assistant | 2015--2020 |
-| GEOG 321 | Climatic Environments — teaching assistant | 2015--2020 |
+| GEOG 501 | Modelling Environmental Systems (teaching assistant and guest lecturer) | 2015--2020 |
+| GEOG 407 | Issues in Geography (teaching assistant and guest lecturer) | 2015--2020 |
+| GEOG 203 | Environmental Systems (teaching assistant) | 2015--2020 |
+| GEOG 205 | Global Change: Past, Present and Future (teaching assistant) | 2015--2020 |
+| GEOG 321 | Climatic Environments (teaching assistant) | 2015--2020 |
 
 ---
 
@@ -45,8 +45,8 @@ Teaching in the Shao EcoLab centers on making quantitative and computational app
 
 | Student | Role | Institution | Period |
 |---------|------|-------------|--------|
-| Yueyue Xing | PhD supervisory committee member (PI: Jianghua Wu) — advancing the McGill Wetland Model for wetland biogeochemical simulations | Memorial University of Newfoundland | 2025--present |
-| Celestine Neba Suh | PhD supervisory committee member (PI: Jianghua Wu) — advancing the McGill Wetland Model for wetland biogeochemical simulations | Memorial University of Newfoundland | 2025--present |
+| Yueyue Xing | PhD supervisory committee member (PI: Jianghua Wu), advancing the McGill Wetland Model for wetland biogeochemical simulations | Memorial University of Newfoundland | 2025--present |
+| Celestine Neba Suh | PhD supervisory committee member (PI: Jianghua Wu), advancing the McGill Wetland Model for wetland biogeochemical simulations | Memorial University of Newfoundland | 2025--present |
 
 ### Past Students
 
@@ -55,7 +55,7 @@ Teaching in the Shao EcoLab centers on making quantitative and computational app
 
 | Student | Project | Institution | Period |
 |---------|---------|-------------|--------|
-| Zachary Shortt | "When do mixed mycorrhizal forests have the lowest carbon cost for nitrogen uptake?" — resulted in a co-authored publication in *JGR: Biogeosciences* | Dartmouth College | 2022--2024 |
+| Zachary Shortt | "When do mixed mycorrhizal forests have the lowest carbon cost for nitrogen uptake?" Resulted in a co-authored publication in *JGR: Biogeosciences*. | Dartmouth College | 2022--2024 |
 
 :::
 

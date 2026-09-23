@@ -15,7 +15,7 @@ keywords:
 | Role | Organization | Period |
 |------|--------------|--------|
 | Editorial Board Member | *Frontiers in Environmental Science* | Current |
-| Selected Member — contributing to a working group on integrating fungal traits into soil biogeochemical models | MicrobeNet^Net (NSF AccelNet Project) | 2025--present |
+| Selected Member, contributing to a working group on integrating fungal traits into soil biogeochemical models | MicrobeNet^Net (NSF AccelNet Project) | 2025--present |
 
 ---
 
@@ -23,7 +23,7 @@ keywords:
 
 ### Conference Organization
 
-- **Session Convener**, *AGU Fall Meeting 2025*, New Orleans. Session B068: Peatland Carbon Cycling — Trace Gas Fluxes, Net Ecosystem Exchange, Decomposition, and Respiration. Co-conveners: Daniel Ricciuto, Xiaoying Shi, Randall Kolka.
+- **Session Convener**, *AGU Fall Meeting 2025*, New Orleans. Session B068, *Peatland Carbon Cycling: Trace Gas Fluxes, Net Ecosystem Exchange, Decomposition, and Respiration*. Co-conveners: Daniel Ricciuto, Xiaoying Shi, Randall Kolka.
 - **Session Convener**, *AGU Fall Meeting 2022*, Chicago. Session B25I: The Effect of Plant Communities and Their Microbial Associations on Soil Biogeochemistry. Co-convener: Caitlin Hicks Pries.
 
 ### Journal Review

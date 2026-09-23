@@ -27,8 +27,8 @@ keywords:
 :::
 
 :::{dropdown} 2020–2021
-- "Modeling responses of ombrotrophic peatlands to environmental changes — the significance of ericoid mycorrhizal fungi." NGEE Arctic monthly conference call. January 2021.
-- "Modeling biogeochemical cycles in northern ombrotrophic peatlands — the significance of plant–microbe interaction." SPRUCE all-hands meeting, Oak Ridge National Laboratory. Oak Ridge, TN. November 2020.
+- "Modeling responses of ombrotrophic peatlands to environmental changes: the significance of ericoid mycorrhizal fungi." NGEE Arctic monthly conference call. January 2021.
+- "Modeling biogeochemical cycles in northern ombrotrophic peatlands: the significance of plant–microbe interaction." SPRUCE all-hands meeting, Oak Ridge National Laboratory. Oak Ridge, TN. November 2020.
 :::
 
 ---

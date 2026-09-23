@@ -56,7 +56,7 @@ Nutrient cycling and the shrub–ericoid mycorrhizal exchange. From [Shao et al.
 
 *Model website:* [mwmpeat.weebly.com](https://mwmpeat.weebly.com)
 
-*Applied in:* peatland carbon and nutrient cycling — see [Research](research)
+*Applied in:* peatland carbon and nutrient cycling. See [Research](research)
 
 ---
 
@@ -101,7 +101,7 @@ Drivers of mycorrhizal carbon cost. From [Shao et al. 2025, *JGR: Biogeosciences
 
 ::::
 
-*Applied in:* mycorrhizal carbon economies in forests — see [Research](research)
+*Applied in:* mycorrhizal carbon economies in forests. See [Research](research)
 
 ---
 
@@ -115,7 +115,7 @@ A comprehensive process-based ecosystem model. We extended it with mineral disso
 :columns: 12 12 6 6
 
 ```{image} images/ecosys-architecture.webp
-:alt: Integrated process architecture of ecosys — climate and disturbance drivers, the ecosystem energy balance, atmospheric composition, plant photosynthesis and resource-driven allocation among leaves, wood, roots, mycorrhizae and reproduction, a layered soil profile with macropore and micropore flow, five substrate-microbe complexes, microbial functional groups from aerobic heterotrophs to methanogens and mycorrhizal fungi, separate carbon, nitrogen, phosphorus, water and energy cycles, mineral transformations and reactive transport, the couplings among those cycles, surface runoff and erosion, lateral export to downstream ecosystems, and a panel of ecosystem outputs from gross primary production to stream chemistry
+:alt: Integrated process architecture of ecosys, showing climate and disturbance drivers, the ecosystem energy balance, atmospheric composition, plant photosynthesis and resource-driven allocation among leaves, wood, roots, mycorrhizae and reproduction, a layered soil profile with macropore and micropore flow, five substrate-microbe complexes, microbial functional groups from aerobic heterotrophs to methanogens and mycorrhizal fungi, separate carbon, nitrogen, phosphorus, water and energy cycles, mineral transformations and reactive transport, the couplings among those cycles, surface runoff and erosion, lateral export to downstream ecosystems, and a panel of ecosystem outputs from gross primary production to stream chemistry
 :width: 100%
 :class: model-fig
 ```
@@ -148,7 +148,7 @@ Coupled weathering, nutrient and plant processes as implemented in ecosys
 
 *Source code:* [github.com/jinyun1tang/ECOSYS](https://github.com/jinyun1tang/ECOSYS)
 
-*Applied in:* enhanced rock weathering and soil carbon removal — see [Research](research)
+*Applied in:* enhanced rock weathering and soil carbon removal. See [Research](research)
 
 ---
 
