@@ -32,13 +32,11 @@ Current directions include mycorrhizal controls on forest and peatland carbon an
 
 ## Who We Look For
 
-**The scope below is deliberately broad.** Projects here sit at the intersection of soil microbial ecology, biogeochemistry and process-based modeling, and can be weighted toward any of the three depending on your background.
+**The scope here is deliberately broad.** Current directions: mycorrhizal carbon and nitrogen economies in forests and peatlands; biological controls on enhanced rock weathering; representing microbial traits in ecosystem models; and machine-learning surrogates for long-term ecosystem simulation. These differ a good deal in emphasis, and I would rather build a project around the right person than screen for an exact CV.
 
-Current directions: mycorrhizal carbon and nitrogen economies in forests and peatlands; biological controls on enhanced rock weathering; representing microbial traits in ecosystem models; and machine-learning surrogates for long-term ecosystem simulation. I would rather build a project around the right person than screen for an exact CV.
+Modeling experience is not a prerequisite. Curiosity about mechanism and some quantitative footing, in whatever language you already use, count for more.
 
-You do not need to arrive already knowing how to model. Most people who join a modeling lab learn that here. What matters more is curiosity about mechanism, some quantitative footing in any language, and care about the biology: models of microbes are only as good as the microbiology in them.
-
-Backgrounds that work well here: microbiology, ecology, soil science, environmental science, geography, atmospheric science, computer science, applied math. People coming from the field or bench side are especially welcome, because models need people who know what the data actually mean.
+People reach this work from microbiology, ecology, soil science, environmental science, computing and applied math. Time at a field site or a bench counts for as much here as time at a keyboard.
 
 ---
 
