@@ -115,7 +115,7 @@ A comprehensive process-based ecosystem model. We extended it with mineral disso
 :columns: 12 12 6 6
 
 ```{image} images/ecosys-architecture.webp
-:alt: Integrated process architecture of ecosys: coupled carbon, nitrogen, phosphorus, water, energy and mineral transformations across plant, soil and atmosphere, including plant allocation, five substrate-microbe complexes, microbial functional groups and soil hydrology
+:alt: Integrated process architecture of ecosys — climate and disturbance drivers, the ecosystem energy balance, atmospheric composition, plant photosynthesis and resource-driven allocation among leaves, wood, roots, mycorrhizae and reproduction, a layered soil profile with macropore and micropore flow, five substrate-microbe complexes, microbial functional groups from aerobic heterotrophs to methanogens and mycorrhizal fungi, separate carbon, nitrogen, phosphorus, water and energy cycles, mineral transformations and reactive transport, the couplings among those cycles, and lateral export to downstream ecosystems
 :width: 100%
 :class: model-fig
 ```
