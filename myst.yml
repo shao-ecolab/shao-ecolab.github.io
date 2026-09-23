@@ -1,6 +1,7 @@
 version: 1
 project:
   title: Home
+  thumbnail: pages/images/lab-banner-social.jpg
   description: The Shao Lab at the University of Tennessee, Knoxville builds process-based ecosystem models in which microbes are active players, linking microbial traits to ecosystem carbon and nutrient cycling.
   authors:
     - name: Siya Shao

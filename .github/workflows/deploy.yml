@@ -57,12 +57,16 @@ jobs:
             sed -i 's|http://localhost:[0-9]*|https://shao-ecolab.github.io|g' ./_build/html/sitemap.xml
           fi
 
-      - name: Make og:image an absolute URL
+      - name: Fix og:image (absolute URL, JPEG variant)
         # Open Graph requires absolute URLs; MyST emits a site-relative path,
-        # which Slack/LinkedIn/Bluesky cannot resolve, so previews come out blank.
+        # which Slack/LinkedIn/Bluesky cannot resolve, so previews come blank.
+        # MyST also rewrites the declared JPEG thumbnail to WebP, which LinkedIn
+        # renders poorly - it emits a JPEG twin at the same hash, so point at it.
         run: |
           find ./_build/html -name "*.html" -exec \
             sed -i 's|\(<meta property="og:image" content="\)/|\1https://shao-ecolab.github.io/|g' {} +
+          find ./_build/html -name "*.html" -exec \
+            sed -i 's|\(<meta property="og:image" content="[^"]*lab-banner-social[^"]*\)\.webp"|\1.jpg"|g' {} +
 
       - name: Inject Giscus comments into blog posts
         run: python inject_comments.py
