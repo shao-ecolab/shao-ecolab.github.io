@@ -31,7 +31,7 @@ Knoxville, TN 37996
 :columns: 12 12 5 5
 
 ```{image} images/logo-large.png
-:alt: The Shao EcoLab logo, a seedling whose stem and root curve into the letter S, with leaves above ground, roots reaching into soil that holds a bacterium and mineral grains, and a monitor showing a modelled curve fitted through data points
+:alt: The Shao EcoLab logo, a seedling whose stem and root curve into the letter S, with leaves above ground, roots reaching into soil that holds a bacterium and mineral grains, and a monitor showing a flow diagram of linked boxes
 :class: contact-logo
 ```
 
