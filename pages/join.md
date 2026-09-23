@@ -15,7 +15,7 @@ The Shao EcoLab is new at the University of Tennessee, Knoxville, and we are bui
 
 :::{admonition} Currently recruiting
 :class: tip
-**Postdoctoral researchers** — funded positions available now.
+**Postdoctoral researchers** for funded positions available now.
 **Graduate students** for Fall 2027 entry through the [Department of Microbiology graduate program](https://micro.utk.edu/graduate/).
 **Undergraduate researchers** on a rolling basis.
 :::
@@ -36,9 +36,9 @@ Current directions include mycorrhizal controls on forest and peatland carbon an
 
 Current directions: mycorrhizal carbon and nitrogen economies in forests and peatlands; biological controls on enhanced rock weathering; representing microbial traits in ecosystem models; and machine-learning surrogates for long-term ecosystem simulation. I would rather build a project around the right person than screen for an exact CV.
 
-You do not need to arrive already knowing how to model — most people who join a modeling lab learn that here. What matters more is curiosity about mechanism, some quantitative footing in any language, and care about the biology: models of microbes are only as good as the microbiology in them.
+You do not need to arrive already knowing how to model. Most people who join a modeling lab learn that here. What matters more is curiosity about mechanism, some quantitative footing in any language, and care about the biology: models of microbes are only as good as the microbiology in them.
 
-Backgrounds that work well here: microbiology, ecology, soil science, environmental science, geography, atmospheric science, computer science, applied math. People coming from the field or bench side are especially welcome — models need people who know what the data actually mean.
+Backgrounds that work well here: microbiology, ecology, soil science, environmental science, geography, atmospheric science, computer science, applied math. People coming from the field or bench side are especially welcome, because models need people who know what the data actually mean.
 
 ---
 
@@ -46,12 +46,12 @@ Backgrounds that work well here: microbiology, ecology, soil science, environmen
 
 **Admission is through the department rather than directly into a lab.** UTK Microbiology uses a rotation system: you rotate through two or three labs in your first semester, then settle into one by mutual agreement. I would be delighted to host you for a rotation.
 
-Apply through the [Department of Microbiology graduate program](https://micro.utk.edu/graduate/). Do feel free to email before applying — I am always happy to talk about whether the fit is right, and it is no trouble at all.
+Apply through the [Department of Microbiology graduate program](https://micro.utk.edu/graduate/). Do feel free to email before applying. I am always happy to talk about whether the fit is right, and it is no trouble at all.
 
 **In your email, include:**
 
 1. A few sentences on what question interests you and why. Specific beats broad, and it is completely fine if it changes later.
-2. Whatever quantitative or computational experience you have — no need to oversell it.
+2. Whatever quantitative or computational experience you have. No need to oversell it.
 3. Your CV.
 
 A short, specific note is always welcome.
@@ -76,8 +76,7 @@ Email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Undergraduate
 
 1. A short note on what you have worked on, and what you would like to work on here.
 2. Your CV.
-3. Names and contact details for two or three references.
 
 Review is ongoing until the positions are filled, and I try to reply to everyone.
 
-If you would rather come with your own funding, I would be very happy to co-develop a fellowship application with you — the NSF Postdoctoral Research Fellowship in Biology or a DOE program, for example.
+If you would rather come with your own funding, I would be very happy to co-develop a fellowship application with you, such as the NSF Postdoctoral Research Fellowship in Biology or a DOE program.
