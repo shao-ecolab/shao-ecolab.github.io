@@ -6,9 +6,14 @@ thumbnail: pages/images/lab-banner-social.jpg
 ---
 
 ```{image} pages/images/lab-banner.webp
-:alt: A landscape cross-section spanning a peatland pool, a conifer forest, and a row-crop field, cut away below ground to show a plant's root system threaded with mycorrhizal hyphae, soil microbes, and weathering mineral grains.
+:alt: Shao EcoLAB banner — a cutaway landscape running from a peatland pool through conifer and broadleaf forest and grassland to a row-crop field, with the soil below opened up to show roots, mycorrhizal hyphae, soil microbes and weathering mineral grains, arrows tracing carbon from plants into the soil and nutrients back to the plants, an inset on microbe–mineral interactions, and CO2 rising toward a label reading climate mitigation and resilient ecosystems.
 :class: home-hero-bg
 ```
+
+:::{div}
+:class: home-hero-caption
+Siya Shao · Department of Microbiology, University of Tennessee, Knoxville
+:::
 
 In the Shao Lab we study how soil microorganisms shape the carbon and nutrient cycles of whole ecosystems. We build process-based models in which microbes are active players rather than hidden inside the equations, and combine them with experimental and observational data to address questions that experiments alone cannot resolve. We work across peatlands, forests, and agricultural systems, in collaboration with field and laboratory research groups.
 
