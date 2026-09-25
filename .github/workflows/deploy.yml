@@ -80,6 +80,10 @@ jobs:
         run: |
           cp CNAME ./_build/html/ 2>/dev/null || true
           cp cv.pdf ./_build/html/cv.pdf
+          # Google Search Console ownership proof. It has to stay reachable at
+          # the site root for as long as the property is verified, so it is
+          # copied on every deploy rather than uploaded once.
+          cp google*.html ./_build/html/ 2>/dev/null || true
           # Rewrite hashed CV URL to stable /cv.pdf path
           find ./_build/html -name "*.html" -exec sed -i 's|/build/cv-[a-f0-9]\{20,\}\.pdf|/cv.pdf|g' {} \;
 
