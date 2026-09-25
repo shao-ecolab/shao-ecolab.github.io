@@ -84,6 +84,12 @@ jobs:
           # the site root for as long as the property is verified, so it is
           # copied on every deploy rather than uploaded once.
           cp google*.html ./_build/html/ 2>/dev/null || true
+          cp lightbox.js ./_build/html/lightbox.js
+          # Load it from <head> with defer. The tag only has to execute once:
+          # its listeners are delegated on document, so they survive the SPA
+          # replacing the article on every in-site navigation.
+          find ./_build/html -name "*.html" -exec \
+            sed -i 's|</head>|<script src="/lightbox.js" defer></script></head>|' {} +
           # Rewrite hashed CV URL to stable /cv.pdf path
           find ./_build/html -name "*.html" -exec sed -i 's|/build/cv-[a-f0-9]\{20,\}\.pdf|/cv.pdf|g' {} \;
 

@@ -321,6 +321,62 @@ article:has(.contact-logo) .myst-fm-affiliation-col {
   display: none !important;
 }
 
+/* ---- Figure lightbox --------------------------------------------------
+   The model diagrams hold far more detail than a 577px frame can show, so a
+   click opens the full-resolution file over a dimmed page. zoom-in is the
+   cursor browsers draw as a magnifier, which is the affordance. */
+img.model-fig {
+  cursor: zoom-in;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+img.model-fig:hover,
+img.model-fig:focus-visible {
+  border-color: rgba(0, 0, 0, 0.28);
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.15);
+  outline: none;
+}
+dialog.figure-lightbox {
+  padding: 0;
+  border: none;
+  border-radius: 10px;
+  background: transparent;
+  overflow: visible;
+  max-width: 96vw;
+  max-height: 96vh;
+}
+dialog.figure-lightbox::backdrop {
+  background: rgba(0, 0, 0, 0.75);
+}
+dialog.figure-lightbox img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 96vw;
+  max-height: 96vh;
+  border-radius: 10px;
+  background: #fff;
+  cursor: default;
+}
+.figure-lightbox-close {
+  position: absolute;
+  top: -14px;
+  right: -14px;
+  width: 34px;
+  height: 34px;
+  border: none;
+  border-radius: 50%;
+  background: #fff;
+  color: #222;
+  font-size: 21px;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.35);
+}
+.figure-lightbox-close:hover { background: #f1f1f1; }
+@media (max-width: 767px) {
+  .figure-lightbox-close { top: 4px; right: 4px; }
+}
+
 /* MyST turns every doi.org link into a citation and appends an auto-generated
    "References" list. It duplicates the publication list above it, and renders
    the Chinese-language titles and some author names incorrectly. */
