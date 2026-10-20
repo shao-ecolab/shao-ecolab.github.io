@@ -55,13 +55,13 @@ Siya builds process-based ecosystem models in which microbes are active players,
 
 ## Graduate Students
 
-*The lab is new and building its group.* We are recruiting graduate students for Fall 2027 entry. See [Join Us](join).
+*The lab is new and building its group.* We are recruiting up to two PhD students for Fall 2027 entry through the Department of Microbiology or the Bredesen Center PhD programs. See [Join Us](join).
 
 ---
 
 ## Postdoctoral Researchers
 
-**Funded positions are currently open.** See [Join Us](join) for how to get in touch.
+**One funded position is currently open.** See [Join Us](join) for how to get in touch.
 
 ---
 

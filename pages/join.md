@@ -17,8 +17,8 @@ You do not need to arrive already knowing how to model. Most people who join a m
 
 :::{admonition} Currently recruiting
 :class: tip
-**Postdoctoral researchers** for funded positions available now.
-**Graduate students** for Fall 2027 entry through the [Department of Microbiology graduate program](https://micro.utk.edu/graduate/).
+**PhD students**, up to two, for Fall 2027: apply through the [Department of Microbiology PhD program](https://micro.utk.edu/graduate/) by December 1, 2026 or the [Bredesen Center PhD programs](https://bredesencenter.utk.edu/phd-programs/) by December 15, 2026. [Read the full announcement (PDF)](https://docs.google.com/document/d/1DvjRjH3XSnfkqT-eV2ECMPrujGEPlywe/export?format=pdf).
+**One postdoctoral researcher** for a funded three-year position in process-based ecosystem modeling; the full announcement will follow.
 **Undergraduate researchers** on a rolling basis.
 :::
 
@@ -26,19 +26,22 @@ You do not need to arrive already knowing how to model. Most people who join a m
 
 ## Graduate Students
 
-**Admission is through the department rather than directly into a lab.** UTK Microbiology uses a rotation system: you rotate through two or three labs in your first semester, then settle into one by mutual agreement. I would be delighted to host you for a rotation.
+We are looking for up to two PhD students to start in August 2027. The [full announcement (PDF)](https://docs.google.com/document/d/1DvjRjH3XSnfkqT-eV2ECMPrujGEPlywe/export?format=pdf) describes the research themes, funding, and how to apply; the essentials are below.
 
-Apply through the [Department of Microbiology graduate program](https://micro.utk.edu/graduate/). Do feel free to email before applying. I am always happy to talk about whether the fit is right, and it is no trouble at all.
+**Admission is through a graduate program rather than directly into the lab.** There are two routes:
 
-**In your email, include:**
+- The [Department of Microbiology PhD program](https://micro.utk.edu/graduate/): complete applications by **December 1, 2026**. Students enter as teaching assistants, rotate through two or three labs in the first semester, then join a lab by mutual agreement. I would be glad to host you for a rotation.
+- The [Bredesen Center](https://bredesencenter.utk.edu/phd-programs/) PhD programs in Data Science and Engineering (DSE), Genome Science and Technology (GST), or Energy Science and Engineering (ESE): final deadline **December 15, 2026**. GST uses first-year rotations like Microbiology; DSE and ESE typically match students with a supervisor at admission, so name me in your application.
 
-1. A few sentences on what question interests you and why. Specific beats broad, and it is completely fine if it changes later.
-2. Whatever quantitative or computational experience you have. No need to oversell it.
-3. Your CV.
+In all four programs, supervisors are confirmed by the end of the first spring semester.
 
-A short, specific note is always welcome.
+**Funding.** All admitted students receive full funding (stipend, tuition waiver, and health insurance) for a five-year PhD. In Microbiology, students typically hold teaching assistantships for two years; in the Bredesen Center programs, the Center funds the first year and a competitive teaching assistantship typically covers a second. In both routes the lab provides three years of research assistantship support.
 
-Email: [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Prospective graduate student"**.
+**Before applying,** I strongly encourage you to get in touch so we can discuss fit and the most suitable route. Email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Prospective graduate student"** and include:
+
+1. A brief statement of your research interests and fit for the lab, including the program you are considering (Microbiology or a Bredesen Center program).
+2. Your CV.
+3. Transcripts (unofficial is fine).
 
 ---
 
@@ -52,13 +55,13 @@ Email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Undergraduate
 
 ## Postdoctoral Researchers
 
-**Funded postdoctoral positions are open, and I would be glad to hear from you.** Directions I am interested in include mycorrhizal controls on forest and peatland carbon–nitrogen cycling, plant–microbe–mineral interactions in enhanced rock weathering and other nature-based solutions, agricultural management practices, microbial traits in ecosystem models, and AI-enhanced ecosystem modeling. The specific question would be shaped around your interests rather than assigned. Start dates are flexible, and formal recruitment details will be announced soon.
+**One funded postdoctoral position is open, and I would be glad to hear from you.** The position is funded for three years in process-based ecosystem modeling, with a flexible start date in 2027. Directions include plant–microbe interactions and ecosystem biogeochemistry, the role of minerals in ecosystem management and climate solutions, and next-generation ecosystem models that represent soil biology explicitly and integrate machine learning. The specific question would be shaped around your interests rather than assigned. The full announcement will be posted here.
 
 **To get in touch,** email [sshao3@utk.edu](mailto:sshao3@utk.edu) with subject line **"Postdoc application"** and include:
 
 1. A short note on what you have worked on, and what you would like to work on here.
 2. Your CV.
 
-Review is ongoing until the positions are filled, and I try to reply to everyone.
+Review is ongoing until the position is filled, and I try to reply to everyone.
 
 If you would rather come with your own funding, I would be very happy to co-develop a fellowship application with you, such as the NSF Postdoctoral Research Fellowship in Biology or a DOE program.
