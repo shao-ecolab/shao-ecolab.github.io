@@ -10,7 +10,7 @@ keywords:
 
 ## 2026
 
-- **October 2026.** Recruiting up to two PhD students for Fall 2027, through the Department of Microbiology (apply by December 1, 2026) or the Bredesen Center PhD programs (final deadline December 15, 2026). [Read the announcement (PDF)](https://docs.google.com/document/d/1DvjRjH3XSnfkqT-eV2ECMPrujGEPlywe/export?format=pdf) or see [Join Us](join).
+- **October 2026.** Recruiting up to two PhD students for Fall 2027, through the Department of Microbiology or the Bredesen Center PhD programs; applications are due December 1, 2026 for both. [Read the announcement (PDF)](https://docs.google.com/document/d/1DvjRjH3XSnfkqT-eV2ECMPrujGEPlywe/export?format=pdf) or see [Join Us](join).
 - **August 2026.** Joined the [Department of Microbiology](https://micro.utk.edu) at the University of Tennessee, Knoxville as an Assistant Professor. The Shao EcoLab is open and [recruiting](join): a funded postdoctoral position, graduate students for Fall 2027, and undergraduate researchers.
 - **2026.** Co-PI on a Department of Energy Genesis Mission award ($585K, Phase I): "Transforming subsurface prediction with an autonomous, multi-agent AI workflow for multi-scale coupled bio-hydrogeochemical modeling."
 

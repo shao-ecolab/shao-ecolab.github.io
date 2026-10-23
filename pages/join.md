@@ -17,7 +17,7 @@ You do not need to arrive already knowing how to model. Most people who join a m
 
 :::{admonition} Currently recruiting
 :class: tip
-**PhD students**, up to two, for Fall 2027: apply through the [Department of Microbiology PhD program](https://micro.utk.edu/graduate/) by December 1, 2026 or the [Bredesen Center PhD programs](https://bredesencenter.utk.edu/phd-programs/) by December 15, 2026. [Read the full announcement (PDF)](https://docs.google.com/document/d/1DvjRjH3XSnfkqT-eV2ECMPrujGEPlywe/export?format=pdf).
+**PhD students**, up to two, for Fall 2027: apply by December 1, 2026 through the [Department of Microbiology PhD program](https://micro.utk.edu/graduate/) or the [Bredesen Center PhD programs](https://bredesencenter.utk.edu/phd-programs/). [Read the full announcement (PDF)](https://docs.google.com/document/d/1DvjRjH3XSnfkqT-eV2ECMPrujGEPlywe/export?format=pdf).
 **One postdoctoral researcher** for a funded three-year position in process-based ecosystem modeling; the full announcement will follow.
 **Undergraduate researchers** on a rolling basis.
 :::
@@ -31,7 +31,7 @@ We are looking for up to two PhD students to start in August 2027. The [full ann
 **Admission is through a graduate program rather than directly into the lab.** There are two routes:
 
 - The [Department of Microbiology PhD program](https://micro.utk.edu/graduate/): complete applications by **December 1, 2026**. Students enter as teaching assistants, rotate through two or three labs in the first semester, then join a lab by mutual agreement. I would be glad to host you for a rotation.
-- The [Bredesen Center](https://bredesencenter.utk.edu/phd-programs/) PhD programs in Data Science and Engineering (DSE), Genome Science and Technology (GST), or Energy Science and Engineering (ESE): final deadline **December 15, 2026**. GST uses first-year rotations like Microbiology; DSE and ESE typically match students with a supervisor at admission, so name me in your application.
+- The [Bredesen Center](https://bredesencenter.utk.edu/phd-programs/) PhD programs in Data Science and Engineering (DSE), Genome Science and Technology (GST), or Energy Science and Engineering (ESE): complete applications by **December 1, 2026**. GST uses first-year rotations like Microbiology; DSE and ESE typically match students with a supervisor at admission, so name me in your application.
 
 In all four programs, supervisors are confirmed by the end of the first spring semester.
 
