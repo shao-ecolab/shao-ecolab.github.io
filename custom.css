@@ -406,6 +406,17 @@ dialog.figure-lightbox img {
   }
 }
 
+/* ---- Page header spacing ----------------------------------------------
+   The frontmatter block opens with a row carrying a link to the GitHub
+   repository and an "Edit this page" link. Both are MyST defaults aimed at
+   open-science documentation; a visitor to a lab site has no use for
+   either, and the row costs 44px above every heading (24px tall plus a
+   20px margin). Hidden, which brings the gap under the nav from 80px to
+   36px. */
+.myst-fm-block-header {
+  display: none !important;
+}
+
 /* MyST turns every doi.org link into a citation and appends an auto-generated
    "References" list. It duplicates the publication list above it, and renders
    the Chinese-language titles and some author names incorrectly. */
